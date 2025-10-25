@@ -147,9 +147,12 @@ class LSFPDetector:
         upper_wick = candle['high'] - max(candle['open'], candle['close'])
         lower_wick = min(candle['open'], candle['close']) - candle['low']
         
+        symbol = candle.get('symbol', '?')
+        
         if direction == 'SHORT':
             relevant_wick = upper_wick
             wick_ratio = relevant_wick / body_size
+            logger.info(f"[{symbol}] SHORT wick check: upper_wick={upper_wick:.6f}, body={body_size:.6f}, ratio={wick_ratio:.2f}, required>={self.config.wick_body_ratio}")
             
             if wick_ratio >= self.config.wick_body_ratio:
                 return {
@@ -162,6 +165,7 @@ class LSFPDetector:
         elif direction == 'LONG':
             relevant_wick = lower_wick
             wick_ratio = relevant_wick / body_size
+            logger.info(f"[{symbol}] LONG wick check: lower_wick={lower_wick:.6f}, body={body_size:.6f}, ratio={wick_ratio:.2f}, required>={self.config.wick_body_ratio}")
             
             if wick_ratio >= self.config.wick_body_ratio:
                 return {
