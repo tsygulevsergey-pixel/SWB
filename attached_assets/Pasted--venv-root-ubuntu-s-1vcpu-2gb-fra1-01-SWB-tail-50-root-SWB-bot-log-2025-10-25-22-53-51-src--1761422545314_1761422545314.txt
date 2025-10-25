@@ -1,0 +1,51 @@
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# tail -50 /root/SWB/bot.log
+2025-10-25 22:53:51 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:53:51 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:53:51 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:53:51 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:53:52 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:53:52 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:53:54 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:53:54 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:53:56 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:53:56 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:53:58 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:53:58 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:01 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:01 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:03 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:03 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:05 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:05 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:06 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:06 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:06 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:06 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:07 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:07 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:09 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:09 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:11 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:11 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:15 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:15 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:15 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:15 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:54:15 - src.strategy.liquidity_filter - INFO - Liquidity filter updated: 145 symbols passed (from 617 total)
+2025-10-25 22:54:15 - src.strategy.liquidity_filter - INFO - Liquidity filter updated: 145 symbols passed (from 617 total)
+2025-10-25 22:54:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 518 symbols
+2025-10-25 22:54:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 518 symbols
+2025-10-25 22:55:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 525 symbols
+2025-10-25 22:55:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 525 symbols
+2025-10-25 22:56:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 526 symbols
+2025-10-25 22:56:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 526 symbols
+2025-10-25 22:57:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 526 symbols
+2025-10-25 22:57:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 526 symbols
+2025-10-25 22:58:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 526 symbols
+2025-10-25 22:58:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 526 symbols
+2025-10-25 22:59:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 526 symbols
+2025-10-25 22:59:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 526 symbols
+2025-10-25 23:00:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 526 symbols
+2025-10-25 23:00:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 526 symbols
+2025-10-25 23:01:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 526 symbols
+2025-10-25 23:01:24 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 526 symbols

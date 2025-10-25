@@ -221,6 +221,7 @@ class LSFPBot:
             self.cache.candles.add_candle(symbol, candle)
             
             if candle['is_closed']:
+                logger.info(f"15m candle closed for {symbol}, starting LSFP analysis...")
                 asyncio.create_task(self._process_closed_candle(symbol, candle))
             
         except Exception as e:
@@ -231,31 +232,39 @@ class LSFPBot:
             await asyncio.sleep(config.candle_close_delay_seconds)
             
             if not self.liquidity_filter.is_symbol_filtered(symbol):
+                logger.debug(f"{symbol} filtered out by liquidity filter")
                 return
             
+            logger.debug(f"Analyzing LSFP pattern for {symbol}...")
             pattern = await self.lsfp_detector.detect_pattern(symbol, candle)
             
             if not pattern:
+                logger.debug(f"No LSFP pattern detected for {symbol}")
                 return
             
+            logger.info(f"LSFP pattern detected for {symbol}! Scoring...")
             scored_signal = self.scorer.score_signal(pattern)
             
             if not scored_signal:
+                logger.debug(f"Pattern scoring failed for {symbol}")
                 return
             
             if scored_signal['scores']['final'] < 6.0:
                 logger.debug(f"Signal score too low for {symbol}: {scored_signal['scores']['final']:.2f}")
                 return
             
+            logger.info(f"High-score signal for {symbol}: {scored_signal['scores']['final']:.2f}")
             position_data = self.position_calc.calculate_entry_sl_tp(scored_signal)
             
             if not position_data:
+                logger.debug(f"Position calculation failed for {symbol}")
                 return
             
+            logger.info(f"📊 Opening virtual trade for {symbol}")
             await self.virtual_trader.open_trade(position_data, scored_signal)
             
         except Exception as e:
-            logger.error(f"Error processing closed candle for {symbol}: {e}")
+            logger.error(f"Error processing closed candle for {symbol}: {e}", exc_info=True)
     
     async def _handle_kline_1m(self, data: dict):
         try:

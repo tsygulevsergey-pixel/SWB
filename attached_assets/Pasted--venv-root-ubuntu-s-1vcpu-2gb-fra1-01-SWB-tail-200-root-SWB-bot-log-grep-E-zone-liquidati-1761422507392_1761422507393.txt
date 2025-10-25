@@ -1,0 +1,27 @@
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# tail -200 /root/SWB/bot.log | grep -E "(zone|liquidation|OI|filter|cluster)"
+2025-10-25 22:53:23 - root - INFO - Logging configured with level: INFO, timezone: Europe/Kiev
+2025-10-25 22:53:23 - root - INFO - Logging configured with level: INFO, timezone: Europe/Kiev
+2025-10-25 22:53:24 - src.strategy.liquidity_filter - INFO - Liquidity filter started (update interval: 15m)
+2025-10-25 22:53:24 - src.strategy.liquidity_filter - INFO - Liquidity filter started (update interval: 15m)
+2025-10-25 22:53:24 - src.strategy.zone_detector - INFO - Zone detector started (update interval: 30m)
+2025-10-25 22:53:24 - src.strategy.zone_detector - INFO - Zone detector started (update interval: 30m)
+2025-10-25 22:53:24 - src.strategy.liquidation_aggregator - INFO - Liquidation aggregator started (update interval: 6h)
+2025-10-25 22:53:24 - src.strategy.liquidation_aggregator - INFO - Liquidation aggregator started (update interval: 6h)
+2025-10-25 22:53:24 - src.strategy.oi_calculator - INFO - OI calculator started (update interval: 5m)
+2025-10-25 22:53:24 - src.strategy.oi_calculator - INFO - OI calculator started (update interval: 5m)
+2025-10-25 22:53:24 - src.strategy.pair_clustering - INFO - Pair clustering started (recalc at 0:00)
+2025-10-25 22:53:24 - src.strategy.pair_clustering - INFO - Pair clustering started (recalc at 0:00)
+2025-10-25 22:53:24 - src.binance.real_provider - INFO - Subscribed to liquidation events
+2025-10-25 22:53:24 - src.binance.real_provider - INFO - Subscribed to liquidation events
+2025-10-25 22:53:24 - __main__ - INFO - WebSocket liquidations: subscribed to market-wide force orders
+2025-10-25 22:53:24 - __main__ - INFO - WebSocket liquidations: subscribed to market-wide force orders
+2025-10-25 22:53:24 - __main__ - INFO - Timezone: Europe/Kiev
+2025-10-25 22:53:24 - __main__ - INFO - Timezone: Europe/Kiev
+2025-10-25 22:53:24 - src.strategy.zone_detector - INFO - Updated zones for 0 symbols
+2025-10-25 22:53:24 - src.strategy.zone_detector - INFO - Updated zones for 0 symbols
+2025-10-25 22:53:24 - src.strategy.liquidation_aggregator - INFO - Updated liquidation percentiles for 0 symbols
+2025-10-25 22:53:24 - src.strategy.liquidation_aggregator - INFO - Updated liquidation percentiles for 0 symbols
+2025-10-25 22:53:24 - src.strategy.pair_clustering - WARNING - Not enough symbols for clustering
+2025-10-25 22:53:24 - src.strategy.pair_clustering - WARNING - Not enough symbols for clustering
+2025-10-25 22:54:15 - src.strategy.liquidity_filter - INFO - Liquidity filter updated: 145 symbols passed (from 617 total)
+2025-10-25 22:54:15 - src.strategy.liquidity_filter - INFO - Liquidity filter updated: 145 symbols passed (from 617 total)
