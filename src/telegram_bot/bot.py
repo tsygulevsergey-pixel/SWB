@@ -54,14 +54,6 @@ class TradingBot:
     
     async def cmd_stats(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         try:
-            win_rate = 0
-            if self.stats['total_trades'] > 0:
-                win_rate = (self.stats['winning_trades'] / self.stats['total_trades']) * 100
-            
-            avg_pnl = 0
-            if self.stats['total_trades'] > 0:
-                avg_pnl = self.stats['total_pnl_percent'] / self.stats['total_trades']
-            
             message = f"""
 📊 <b>Статистика торговли LSFP-15</b>
 
@@ -71,11 +63,11 @@ class TradingBot:
 ✅ Выигрышных: {self.stats['winning_trades']}
 ❌ Проигрышных: {self.stats['losing_trades']}
 
-🎯 Win Rate: {win_rate:.2f}%
+🎯 Win Rate: {self.stats.get('win_rate', 0):.2f}%
 
 💰 PnL:
   • Общий: {self.stats['total_pnl_percent']:.2f}%
-  • Средний: {avg_pnl:.2f}%
+  • Средний: {self.stats.get('avg_pnl_percent', 0):.2f}%
 
 🎯 Тейки:
   • TP1: {self.stats['tp1_hits']}
@@ -188,7 +180,7 @@ class TradingBot:
     def update_trade(self, symbol: str, trade_data: dict):
         self.active_trades[symbol] = trade_data
     
-    def close_trade(self, symbol: str, won: bool, pnl_percent: float, exit_reason: str):
+    async def close_trade(self, symbol: str, won: bool, pnl_percent: float, exit_reason: str):
         if symbol in self.active_trades:
             del self.active_trades[symbol]
         
@@ -200,9 +192,28 @@ class TradingBot:
         else:
             self.stats['losing_trades'] += 1
         
+        if self.stats['total_trades'] > 0:
+            self.stats['win_rate'] = (self.stats['winning_trades'] / self.stats['total_trades']) * 100
+            self.stats['avg_pnl_percent'] = self.stats['total_pnl_percent'] / self.stats['total_trades']
+        
         if 'TP1' in exit_reason:
             self.stats['tp1_hits'] += 1
         elif 'TP2' in exit_reason:
             self.stats['tp2_hits'] += 1
         elif 'SL' in exit_reason:
             self.stats['sl_hits'] += 1
+        
+        pnl_emoji = "✅" if won else "❌"
+        exit_emoji = "🎯" if 'TP' in exit_reason else "🛑"
+        
+        message = f"""
+{exit_emoji} <b>Сделка закрыта</b>
+
+<b>{symbol}</b>
+Выход: {exit_reason}
+{pnl_emoji} PnL: {pnl_percent:.2f}%
+
+⏰ {datetime.now(self.tz).strftime('%Y-%m-%d %H:%M:%S')} (Киев)
+"""
+        
+        await self._send_message(message)
