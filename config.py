@@ -127,6 +127,8 @@ class AppConfig:
     timezone: str = "Europe/Kiev"
     log_level: str = "INFO"
     
+    use_mock_data: bool = field(default_factory=lambda: os.getenv("USE_MOCK_DATA", "true").lower() == "true")
+    
     candle_close_delay_seconds: int = 10
     
     cluster_leaders: List[str] = field(default_factory=lambda: [
