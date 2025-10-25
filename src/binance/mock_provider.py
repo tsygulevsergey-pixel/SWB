@@ -15,7 +15,7 @@ class MockBinanceProvider(BinanceDataProvider):
     
     def __init__(self):
         self.running = False
-        self.kline_tasks = []
+        self.kline_tasks = {}
         self.liquidation_task = None
         self.kline_callbacks = []
         self.liquidation_callbacks = []
@@ -66,7 +66,7 @@ class MockBinanceProvider(BinanceDataProvider):
     async def stop(self):
         self.running = False
         
-        for task in self.kline_tasks:
+        for task in self.kline_tasks.values():
             task.cancel()
         
         if self.liquidation_task:
@@ -205,12 +205,31 @@ class MockBinanceProvider(BinanceDataProvider):
             return 60 * 1000
     
     async def subscribe_klines(self, symbols: List[str], interval: str, callback):
+        task_key = f"{interval}_{'-'.join(sorted(symbols[:5]))}"
+        
+        if task_key in self.kline_tasks:
+            logger.warning(f"Mock: task for {interval} already exists, cancelling old one")
+            self.kline_tasks[task_key].cancel()
+        
         self.kline_callbacks.append((symbols, interval, callback))
         
         task = asyncio.create_task(self._kline_emitter(symbols, interval, callback))
-        self.kline_tasks.append(task)
+        self.kline_tasks[task_key] = task
         
         logger.info(f"Mock: subscribed to {len(symbols)} symbols for {interval} klines")
+    
+    async def unsubscribe_klines(self, symbols: List[str], interval: str):
+        task_key = f"{interval}_{'-'.join(sorted(symbols[:5]))}"
+        
+        if task_key in self.kline_tasks:
+            self.kline_tasks[task_key].cancel()
+            del self.kline_tasks[task_key]
+            logger.info(f"Mock: unsubscribed from {len(symbols)} symbols for {interval} klines")
+        
+        self.kline_callbacks = [
+            (s, i, c) for s, i, c in self.kline_callbacks
+            if not (i == interval and set(s) == set(symbols))
+        ]
     
     async def _kline_emitter(self, symbols: List[str], interval: str, callback: Callable):
         interval_seconds = self._interval_to_ms(interval) / 1000

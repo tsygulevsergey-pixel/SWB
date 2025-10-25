@@ -66,10 +66,16 @@ main.py
 ```
 
 ### Data Flow
-- **WebSocket Kline 15m:** All 100 symbols (900 max), triggers pattern detection on candle close
+- **WebSocket Kline 15m:** All 100 symbols, triggers pattern detection on candle close
+- **WebSocket Kline 1m:** ✅ TOP-100 hot symbols (updates every 10 min), faster reaction on volatile pairs
 - **WebSocket Liquidations:** Market-wide forceOrder events
-- **WebSocket Kline 1m:** (future) Hot symbols only for faster reaction
 - **REST API:** Initial historical data (200 candles × 100 symbols), 24h tickers, OI data
+
+**WebSocket Stream Count:**
+- 15m klines: ~100 streams
+- 1m klines: ~100 streams (hot symbols only)
+- Liquidations: 1 stream
+- **Total: ~201 streams** (well within Binance limit of 1024 per connection)
 
 ## User Preferences
 
@@ -248,8 +254,7 @@ Bot configured to run on Replit. Simply set `USE_MOCK_DATA=False` when deploying
 - **Rate Limits:** 2400 weight/minute Binance limit may constrain real-time processing of 100+ symbols; hot/cold pools mitigate this
 
 ### Next Steps (Future Development)
-1. **1m WebSocket:** Add 1-minute kline WebSocket for hot symbols to catch earlier entries
-2. **Real Mode Testing:** Deploy to European server, test with real Binance API
+1. **Real Mode Testing:** Deploy to European server, test with real Binance API
 3. **Backtesting:** Historical LSFP-15 pattern validation on past data
 4. **Performance Tuning:** Optimize correlation clustering update frequency
 5. **Risk Management:** Add max daily loss limit, drawdown tracking

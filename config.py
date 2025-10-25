@@ -78,7 +78,9 @@ class StrategyConfig:
     
     hot_pool_size: int = 400
     cold_pool_size: int = 600
+    hot_pool_1m_size: int = 100
     pool_update_minutes: int = 15
+    hot_pool_1m_update_minutes: int = 10
 
 
 @dataclass

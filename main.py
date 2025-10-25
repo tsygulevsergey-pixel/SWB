@@ -43,6 +43,7 @@ class LSFPBot:
         self.virtual_trader: VirtualTrader = None
         
         self.symbols_list = []
+        self.hot_symbols_1m = []
     
     async def start(self):
         logger.info("=== Starting LSFP-15 Trading Bot ===")
@@ -175,6 +176,8 @@ class LSFPBot:
         )
         
         logger.info("WebSocket liquidations: subscribed to market-wide force orders")
+        
+        await self._update_hot_symbols_1m()
     
     async def _handle_kline_15m(self, data: dict):
         try:
@@ -240,6 +243,36 @@ class LSFPBot:
         except Exception as e:
             logger.error(f"Error processing closed candle for {symbol}: {e}")
     
+    async def _handle_kline_1m(self, data: dict):
+        try:
+            if data.get('e') != 'kline':
+                return
+            
+            kline = data.get('k', {})
+            symbol = data.get('s')
+            
+            candle = {
+                'symbol': symbol,
+                'interval': kline.get('i', '1m'),
+                'open_time': kline.get('t'),
+                'open': float(kline.get('o')),
+                'high': float(kline.get('h')),
+                'low': float(kline.get('l')),
+                'close': float(kline.get('c')),
+                'volume': float(kline.get('v')),
+                'close_time': kline.get('T'),
+                'quote_volume': float(kline.get('q')),
+                'trades': kline.get('n'),
+                'taker_buy_base': float(kline.get('V', 0)),
+                'taker_buy_quote': float(kline.get('Q', 0)),
+                'is_closed': kline.get('x', False)
+            }
+            
+            self.cache.candles.add_candle(symbol, candle)
+            
+        except Exception as e:
+            logger.error(f"Error handling 1m kline: {e}")
+    
     async def _handle_liquidation(self, data: dict):
         try:
             if data.get('e') != 'forceOrder':
@@ -265,10 +298,42 @@ class LSFPBot:
         except Exception as e:
             logger.error(f"Error handling liquidation: {e}")
     
+    async def _update_hot_symbols_1m(self):
+        try:
+            hot_symbols = self.prioritizer.get_hot_pool()
+            
+            if not hot_symbols:
+                logger.debug("Hot pool empty, skipping 1m subscription")
+                return
+            
+            top_hot = hot_symbols[:config.strategy.hot_pool_1m_size]
+            
+            if set(top_hot) == set(self.hot_symbols_1m):
+                logger.debug("Hot symbols for 1m unchanged, skipping resubscription")
+                return
+            
+            if self.hot_symbols_1m:
+                logger.info(f"Updating 1m WebSocket: {len(top_hot)} hot symbols")
+                if hasattr(self.data_provider, 'unsubscribe_klines'):
+                    await self.data_provider.unsubscribe_klines(self.hot_symbols_1m, '1m')
+            
+            await self.data_provider.subscribe_klines(
+                symbols=top_hot,
+                interval='1m',
+                callback=self._handle_kline_1m
+            )
+            
+            self.hot_symbols_1m = top_hot
+            logger.info(f"WebSocket 1m: subscribed to {len(top_hot)} hot symbols")
+            
+        except Exception as e:
+            logger.error(f"Error updating hot symbols 1m: {e}")
+    
     async def _run_main_loop(self):
         logger.info("Entering main event loop...")
         
         update_counter = 0
+        last_hot_update = 0
         
         while self.running:
             try:
@@ -285,6 +350,11 @@ class LSFPBot:
                         f"Win rate: {stats['win_rate']:.1f}%, "
                         f"Cache: {cache_stats['symbols_with_candles']} symbols"
                     )
+                
+                hot_update_interval = config.strategy.hot_pool_1m_update_minutes * 60 / 30
+                if update_counter - last_hot_update >= hot_update_interval:
+                    await self._update_hot_symbols_1m()
+                    last_hot_update = update_counter
                 
             except Exception as e:
                 logger.error(f"Error in main loop: {e}")

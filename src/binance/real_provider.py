@@ -51,8 +51,9 @@ class RealBinanceProvider(BinanceDataProvider):
         ws_key = f"klines_{interval}"
         
         if ws_key in self.ws_clients:
-            logger.warning(f"WebSocket for {interval} klines already exists")
-            return
+            logger.info(f"Replacing WebSocket for {interval} klines with new symbols")
+            await self.ws_clients[ws_key].stop()
+            del self.ws_clients[ws_key]
         
         ws_client = BinanceWebSocketClient(self.config, f"WS-{interval}")
         ws_client.subscribe_callback('kline', callback)
@@ -64,6 +65,14 @@ class RealBinanceProvider(BinanceDataProvider):
         self.ws_clients[ws_key] = ws_client
         
         logger.info(f"Subscribed to {len(symbols)} symbols for {interval} klines")
+    
+    async def unsubscribe_klines(self, symbols: List[str], interval: str):
+        ws_key = f"klines_{interval}"
+        
+        if ws_key in self.ws_clients:
+            await self.ws_clients[ws_key].stop()
+            del self.ws_clients[ws_key]
+            logger.info(f"Unsubscribed from {interval} klines")
     
     async def subscribe_liquidations(self, callback: Callable):
         ws_key = "liquidations"
