@@ -1,0 +1,101 @@
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# head -100 /root/SWB/bot.log
+2025-10-25 22:18:03 - root - INFO - Logging configured with level: INFO, timezone: Europe/Kiev
+2025-10-25 22:18:03 - __main__ - INFO - === Starting LSFP-15 Trading Bot ===
+2025-10-25 22:18:03 - __main__ - INFO - Initializing database...
+2025-10-25 22:18:03 - __main__ - CRITICAL - Fatal error during startup: role "root" does not exist
+Traceback (most recent call last):
+  File "/root/SWB/main.py", line 53, in start
+    self.db_pool = await init_database(config.database.url)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/SWB/src/database/schema.py", line 266, in init_database
+    pool = await asyncpg.create_pool(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/pool.py", line 418, in _async__init__
+    await self._initialize()
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/pool.py", line 445, in _initialize
+    await first_ch.connect()
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/pool.py", line 132, in connect
+    self._con = await self._pool._get_new_connection()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/pool.py", line 517, in _get_new_connection
+    con = await self._connect(
+          ^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/connection.py", line 2421, in connect
+    return await connect_utils._connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<20 lines>...
+    )
+    ^
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/connect_utils.py", line 934, in __connect_addr
+    await connected
+asyncpg.exceptions.InvalidAuthorizationSpecificationError: role "root" does not exist
+2025-10-25 22:18:03 - __main__ - INFO - Stopping LSFP-15 Bot...
+2025-10-25 22:18:03 - __main__ - INFO - === LSFP-15 Bot stopped ===
+2025-10-25 22:18:03 - __main__ - INFO - Stopping LSFP-15 Bot...
+2025-10-25 22:18:03 - __main__ - INFO - === LSFP-15 Bot stopped ===
+2025-10-25 22:18:15 - root - INFO - Logging configured with level: INFO, timezone: Europe/Kiev
+2025-10-25 22:18:15 - __main__ - INFO - === Starting LSFP-15 Trading Bot ===
+2025-10-25 22:18:15 - __main__ - INFO - Initializing database...
+2025-10-25 22:18:15 - __main__ - CRITICAL - Fatal error during startup: role "root" does not exist
+Traceback (most recent call last):
+  File "/root/SWB/main.py", line 53, in start
+    self.db_pool = await init_database(config.database.url)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/SWB/src/database/schema.py", line 266, in init_database
+    pool = await asyncpg.create_pool(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/pool.py", line 418, in _async__init__
+    await self._initialize()
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/pool.py", line 445, in _initialize
+    await first_ch.connect()
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/pool.py", line 132, in connect
+    self._con = await self._pool._get_new_connection()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/pool.py", line 517, in _get_new_connection
+    con = await self._connect(
+          ^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/connection.py", line 2421, in connect
+    return await connect_utils._connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<20 lines>...
+    )
+    ^
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/SWB/venv/lib/python3.13/site-packages/asyncpg/connect_utils.py", line 934, in __connect_addr
+    await connected
+asyncpg.exceptions.InvalidAuthorizationSpecificationError: role "root" does not exist
+2025-10-25 22:18:15 - __main__ - INFO - Stopping LSFP-15 Bot...
+2025-10-25 22:18:15 - __main__ - INFO - === LSFP-15 Bot stopped ===
+2025-10-25 22:18:15 - __main__ - INFO - Stopping LSFP-15 Bot...
+2025-10-25 22:18:15 - __main__ - INFO - === LSFP-15 Bot stopped ===
+2025-10-25 22:18:26 - root - INFO - Logging configured with level: INFO, timezone: Europe/Kiev
+2025-10-25 22:18:26 - __main__ - INFO - === Starting LSFP-15 Trading Bot ===
