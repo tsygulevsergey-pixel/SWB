@@ -18,17 +18,17 @@ class LSFPDetector:
     
     async def detect_pattern(self, symbol: str, candle: dict) -> Optional[Dict]:
         try:
-            logger.debug(f"[{symbol}] LSFP detect_pattern started")
+            logger.info(f"[{symbol}] LSFP detect_pattern started")
             
             if not candle.get('is_closed', False):
-                logger.debug(f"[{symbol}] Candle not closed, skipping")
+                logger.info(f"[{symbol}] Candle not closed, skipping")
                 return None
             
             candles = self.cache.candles.get_last_n_candles(symbol, 25)
-            logger.debug(f"[{symbol}] Retrieved {len(candles)} candles from cache")
+            logger.info(f"[{symbol}] Retrieved {len(candles)} candles from cache")
             
             if len(candles) < 22:
-                logger.debug(f"[{symbol}] Not enough candles: {len(candles)} < 22")
+                logger.info(f"[{symbol}] Not enough candles: {len(candles)} < 22")
                 return None
             
             current_candle = candles[-1]
@@ -40,24 +40,26 @@ class LSFPDetector:
             
             sweep_result = self._check_sweep(current_candle, prev_candles, atr)
             if not sweep_result:
-                logger.debug(f"[{symbol}] No sweep detected")
+                logger.info(f"[{symbol}] No sweep detected")
                 return None
             
             direction = sweep_result['direction']
+            logger.info(f"[{symbol}] Sweep detected: {direction}")
             
             wick_result = self._check_wick_body_ratio(current_candle, direction)
             if not wick_result:
+                logger.info(f"[{symbol}] Wick/body ratio check failed")
                 return None
             
-            logger.debug(f"[{symbol}] Checking liquidation cluster (p95)")
+            logger.info(f"[{symbol}] Checking liquidation cluster (p95)")
             if not self.liq_aggregator.is_liquidation_cluster(symbol, minutes=4, threshold_percentile=95):
-                logger.debug(f"[{symbol}] No liquidation cluster at p95")
+                logger.info(f"[{symbol}] No liquidation cluster at p95")
                 return None
             
-            logger.debug(f"[{symbol}] Calculating OI delta")
+            logger.info(f"[{symbol}] Calculating OI delta")
             oi_delta = self.oi_calculator.calculate_oi_delta_15m(symbol)
             if oi_delta is None or oi_delta > self.config.oi_delta_min_percent:
-                logger.debug(f"[{symbol}] OI delta check failed: {oi_delta}")
+                logger.info(f"[{symbol}] OI delta check failed: {oi_delta}")
                 return None
             
             volume_result = self._check_volume(current_candle, candles, atr)
