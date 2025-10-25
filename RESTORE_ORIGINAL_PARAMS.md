@@ -11,11 +11,12 @@
 
 ```python
 # СТРАТЕГИЯ
-sweep_min_atr: float = 0.20           # было изменено на: 0.05
-wick_body_ratio: float = 2.0          # было изменено на: 0.0
-liq_percentile_base: int = 95         # было изменено на: 50
-liq_min_usd: float = 500_000          # было изменено на: 100_000
-oi_delta_min_percent: float = -1.5    # было изменено на: -0.5
+sweep_min_atr: float = 0.20           # ULTRA-TEST: 0.01
+wick_body_ratio: float = 2.0          # ULTRA-TEST: 0.0
+liq_percentile_base: int = 95         # ULTRA-TEST: 10
+liq_min_usd: float = 500_000          # ULTRA-TEST: 1000
+oi_delta_min_percent: float = -1.5    # ULTRA-TEST: -0.01
+volume_percentile: int = 90           # ULTRA-TEST: 10
 ```
 
 ---
@@ -29,29 +30,34 @@ nano /root/SWB/config.py
 
 ### 2. Найдите и измените (CTRL+W для поиска):
 
-**Строка ~17:**
-```python
-sweep_min_atr: float = 0.20  # вернуть с 0.05
-```
-
 **Строка ~20:**
 ```python
-wick_body_ratio: float = 2.0  # вернуть с 0.0
+sweep_min_atr: float = 0.20  # ULTRA-TEST: 0.01
 ```
 
-**Строка ~22:**
+**Строка ~23:**
 ```python
-liq_percentile_base: int = 95  # вернуть с 50
+wick_body_ratio: float = 2.0  # ULTRA-TEST: 0.0
 ```
 
-**Строка ~24:**
+**Строка ~25:**
 ```python
-liq_min_usd: float = 500_000  # вернуть с 100_000
+liq_percentile_base: int = 95  # ULTRA-TEST: 10
 ```
 
 **Строка ~27:**
 ```python
-oi_delta_min_percent: float = -1.5  # вернуть с -0.5
+liq_min_usd: float = 500_000  # ULTRA-TEST: 1000
+```
+
+**Строка ~30:**
+```python
+oi_delta_min_percent: float = -1.5  # ULTRA-TEST: -0.01
+```
+
+**Строка ~34:**
+```python
+volume_percentile: int = 90  # ULTRA-TEST: 10
 ```
 
 ### 3. Сохраните:

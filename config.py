@@ -14,21 +14,21 @@ class StrategyConfig:
     atr_max_percent: float = 5.5
     atr_period: int = 14
     
-    sweep_min_atr: float = 0.05
+    sweep_min_atr: float = 0.01
     sweep_min_atr_strict: float = 0.30
     
     wick_body_ratio: float = 0.0
     
-    liq_percentile_base: int = 50
+    liq_percentile_base: int = 10
     liq_percentile_strict: int = 97
-    liq_min_usd: float = 100_000
+    liq_min_usd: float = 1000
     liq_window_minutes: int = 4
     
-    oi_delta_min_percent: float = -0.5
-    oi_delta_max_percent: float = -3.0
+    oi_delta_min_percent: float = -0.01
+    oi_delta_max_percent: float = -10.0
     oi_delta_strict_percent: float = -2.5
     
-    volume_percentile: int = 90
+    volume_percentile: int = 10
     volume_lookback_bars: int = 50
     
     donchian_h1_period: int = 50

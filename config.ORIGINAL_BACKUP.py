@@ -36,6 +36,18 @@ atr_max_percent_ORIGINAL = 5.5  # Максимум 5.5% ATR
 atr_period_ORIGINAL = 14  # Период ATR 14 баров
 
 
+# ===== ТЕКУЩИЕ ТЕСТОВЫЕ ПАРАМЕТРЫ (ULTRA-RELAXED) =====
+"""
+ВНИМАНИЕ! Это временные параметры для теста полного пайплайна:
+
+sweep_min_atr: float = 0.01           # 1% ATR (в 20 раз мягче!)
+wick_body_ratio: float = 0.0          # отключен
+liq_percentile_base: int = 10         # 10-й перцентиль (в 9.5 раз мягче!)
+liq_min_usd: float = 1000             # $1k (в 500 раз мягче!)
+oi_delta_min_percent: float = -0.01   # -0.01% (в 150 раз мягче!)
+volume_percentile: int = 10           # 10-й перцентиль (в 9 раз мягче!)
+"""
+
 # ===== КОМАНДА ДЛЯ ВОССТАНОВЛЕНИЯ =====
 """
 В config.py вернуть:
@@ -45,4 +57,5 @@ wick_body_ratio: float = 2.0
 liq_percentile_base: int = 95
 liq_min_usd: float = 500_000
 oi_delta_min_percent: float = -1.5
+volume_percentile: int = 90
 """
