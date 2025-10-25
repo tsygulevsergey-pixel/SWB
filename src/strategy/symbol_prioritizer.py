@@ -74,9 +74,10 @@ class SymbolPrioritizer:
             self._cold_pool = [s for s, _ in sorted_symbols[self.hot_pool_size:self.hot_pool_size + self.cold_pool_size]]
             self._symbol_priorities = dict(sorted_symbols)
             
+            top_priority = f"{priorities.get(self._hot_pool[0], 0):.2f}" if self._hot_pool else "N/A"
             logger.info(
                 f"Pools updated: hot={len(self._hot_pool)}, cold={len(self._cold_pool)}, "
-                f"top priority={priorities.get(self._hot_pool[0], 0):.2f if self._hot_pool else 0}"
+                f"top priority={top_priority}"
             )
         
         except Exception as e:
