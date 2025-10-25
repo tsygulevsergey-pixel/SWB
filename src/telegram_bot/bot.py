@@ -140,9 +140,17 @@ class TradingBot:
         except Exception as e:
             logger.error(f"Error sending signal: {e}")
     
+    async def send_info_message(self, message: str):
+        """Отправка информационного сообщения (публичный метод)"""
+        await self._send_message(message)
+    
     async def _send_message(self, message: str):
         if not self.config.chat_id:
             logger.warning("Chat ID not configured, message not sent")
+            return
+        
+        if not self.app:
+            logger.warning("Telegram app not initialized, message not sent")
             return
         
         if len(message) > self.config.max_message_length:

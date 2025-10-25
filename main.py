@@ -4,6 +4,8 @@ import signal
 import logging
 import sys
 import os
+from datetime import datetime
+import pytz
 
 sys.path.insert(0, os.path.dirname(__file__))
 
@@ -79,7 +81,7 @@ class LSFPBot:
             
             logger.info("Initializing strategy modules...")
             
-            self.liquidity_filter = LiquidityFilter(config.strategy, self.data_provider, self.cache)
+            self.liquidity_filter = LiquidityFilter(config.strategy, self.data_provider, self.cache, self.telegram_bot)
             await self.liquidity_filter.start(update_interval_minutes=15)
             
             self.prioritizer = SymbolPrioritizer(self.cache, config.strategy.hot_pool_size, config.strategy.cold_pool_size)
@@ -117,6 +119,18 @@ class LSFPBot:
             logger.info(f"Monitoring {len(self.symbols_list)} symbols")
             logger.info(f"Timezone: {config.timezone}")
             logger.info(f"Telegram bot active: {bool(config.telegram.bot_token and config.telegram.chat_id)}")
+            
+            startup_msg = f"""
+🚀 <b>LSFP-15 Бот запущен!</b>
+
+📊 Режим: {'🎭 MOCK (тестовый)' if config.use_mock_data else '📡 REAL (боевой)'}
+🔍 Мониторинг: {len(self.symbols_list)} USDT-perpetual пар
+🌍 Часовой пояс: {config.timezone}
+⏱ Задержка после закрытия свечи: {config.candle_close_delay_seconds}с
+
+⏰ {datetime.now(pytz.timezone(config.timezone)).strftime('%Y-%m-%d %H:%M:%S')} (Киев)
+"""
+            await self.telegram_bot.send_info_message(startup_msg)
             
             self.running = True
             

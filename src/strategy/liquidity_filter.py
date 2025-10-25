@@ -9,10 +9,11 @@ logger = logging.getLogger(__name__)
 
 class LiquidityFilter:
     
-    def __init__(self, config: StrategyConfig, data_provider, cache):
+    def __init__(self, config: StrategyConfig, data_provider, cache, telegram_bot=None):
         self.config = config
         self.data_provider = data_provider
         self.cache = cache
+        self.telegram_bot = telegram_bot
         
         self._filtered_symbols: List[str] = []
         self._symbol_scores: Dict[str, float] = {}
@@ -123,6 +124,24 @@ class LiquidityFilter:
                 f"Liquidity filter updated: {len(filtered_sorted)} symbols passed "
                 f"(from {len(tickers)} total)"
             )
+            
+            if self.telegram_bot:
+                try:
+                    filter_msg = f"""
+📊 <b>Обновлен список монет для анализа</b>
+
+✅ Прошли фильтр: <b>{len(filtered_sorted)}</b> из {len(tickers)} монет
+
+📋 <b>Условия отбора:</b>
+1️⃣ Объем 24ч: ${self.config.min_24h_volume_usd/1_000_000:.0f}M - ${self.config.max_24h_volume_usd/1_000_000_000:.1f}B
+2️⃣ Открытый интерес: ${self.config.min_oi_usd/1_000_000:.0f}M - ${self.config.max_oi_usd/1_000_000_000:.1f}B  
+3️⃣ ATR%: {self.config.atr_min_percent:.1f}% - {self.config.atr_max_percent:.1f}%
+
+⏰ {time.strftime('%Y-%m-%d %H:%M:%S', time.localtime())}
+"""
+                    await self.telegram_bot.send_info_message(filter_msg)
+                except Exception as e:
+                    logger.error(f"Error sending filter update to Telegram: {e}")
         
         except Exception as e:
             logger.error(f"Error updating filtered symbols: {e}")

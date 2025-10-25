@@ -10,12 +10,20 @@ High-speed Telegram bot monitoring all USDT-perpetual pairs on Binance Futures, 
 
 ## Recent Changes (2025-10-25)
 
-### 🔧 Critical Bugfix (Latest)
-- **Database Integration:** Fixed `relation "klines" does not exist` error in `market_cache.py`
+### 🔧 Critical Bugfix & New Features (Latest)
+
+**Database Integration Fix:**
+- Fixed `relation "klines" does not exist` error in `market_cache.py`
   - Changed from non-existent `klines` table to interval-specific tables (`klines_15m`, `klines_1h`, `klines_4h`)
   - Removed non-existent columns (`interval`, `taker_buy_base`, `taker_buy_quote`)
   - Fixed data type mismatch: using BIGINT timestamps instead of datetime objects
   - ✅ Candles now properly saved to PostgreSQL without errors
+
+**Telegram Notifications:**
+- ✅ **Bot startup notification** - отправляет сообщение при запуске с информацией о режиме, количестве пар, часовом поясе
+- ✅ **Liquidity filter updates** - каждые 15 минут отправляет сообщение с количеством отобранных монет и критериями фильтрации
+  - Показывает условия: объем 24ч, открытый интерес, ATR%
+  - Автоматическое форматирование больших чисел ($XM, $XB)
 
 ## Recent Changes (2025-10-25 Earlier)
 
