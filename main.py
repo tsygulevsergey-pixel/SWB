@@ -229,8 +229,10 @@ class LSFPBot:
     
     async def _process_closed_candle(self, symbol: str, candle: dict):
         try:
+            logger.debug(f"[{symbol}] Step 1: Waiting {config.candle_close_delay_seconds}s after candle close")
             await asyncio.sleep(config.candle_close_delay_seconds)
             
+            logger.debug(f"[{symbol}] Step 2: Checking liquidity filter")
             if not self.liquidity_filter.is_symbol_filtered(symbol):
                 logger.debug(f"{symbol} filtered out by liquidity filter")
                 return
