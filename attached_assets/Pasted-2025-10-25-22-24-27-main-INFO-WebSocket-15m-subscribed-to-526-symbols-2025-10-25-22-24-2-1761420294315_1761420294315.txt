@@ -1,0 +1,30 @@
+2025-10-25 22:24:27 - __main__ - INFO - WebSocket 15m: subscribed to 526 symbols
+2025-10-25 22:24:27 - src.binance.real_provider - INFO - Subscribed to liquidation events
+2025-10-25 22:24:27 - __main__ - INFO - WebSocket liquidations: subscribed to market-wide force orders
+2025-10-25 22:24:27 - __main__ - INFO - === LSFP-15 Bot started successfully ===
+2025-10-25 22:24:27 - __main__ - INFO - Data mode: 📡 REAL
+2025-10-25 22:24:27 - __main__ - INFO - Monitoring 526 symbols
+2025-10-25 22:24:27 - __main__ - INFO - Timezone: Europe/Kiev
+2025-10-25 22:24:27 - __main__ - INFO - Telegram bot active: True
+2025-10-25 22:24:27 - __main__ - INFO - Entering main event loop...
+2025-10-25 22:24:27 - src.strategy.symbol_prioritizer - WARNING - No symbols with data to prioritize
+2025-10-25 22:24:27 - src.strategy.zone_detector - INFO - Updated zones for 0 symbols
+2025-10-25 22:24:27 - src.strategy.liquidation_aggregator - INFO - Updated liquidation percentiles for 0 symbols
+2025-10-25 22:24:27 - src.strategy.pair_clustering - WARNING - Not enough symbols for clustering
+2025-10-25 22:24:27 - src.binance.websocket_client - INFO - WS-15m connecting to 526 streams
+2025-10-25 22:24:27 - src.binance.websocket_client - INFO - WS-Liquidations connecting to 1 streams
+2025-10-25 22:24:29 - src.binance.websocket_client - INFO - WS-Liquidations connected successfully
+2025-10-25 22:24:29 - src.binance.websocket_client - INFO - WS-15m connected successfully
+2025-10-25 22:24:30 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:24:32 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:24:33 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:24:35 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:24:35 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:24:36 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:24:37 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:24:38 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:24:39 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:24:40 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:24:40 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:24:42 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:24:43 - src.binance.re
