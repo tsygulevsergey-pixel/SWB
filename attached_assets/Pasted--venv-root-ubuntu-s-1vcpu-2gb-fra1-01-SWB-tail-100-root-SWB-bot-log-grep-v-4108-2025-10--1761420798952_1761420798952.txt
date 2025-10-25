@@ -1,0 +1,31 @@
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# tail -100 /root/SWB/bot.log | grep -v "4108"
+2025-10-25 22:30:13 - __main__ - INFO - Monitoring 526 symbols
+2025-10-25 22:30:13 - __main__ - INFO - Monitoring 526 symbols
+2025-10-25 22:30:13 - __main__ - INFO - Timezone: Europe/Kiev
+2025-10-25 22:30:13 - __main__ - INFO - Timezone: Europe/Kiev
+2025-10-25 22:30:13 - __main__ - INFO - Telegram bot active: True
+2025-10-25 22:30:13 - __main__ - INFO - Telegram bot active: True
+2025-10-25 22:30:13 - __main__ - INFO - Entering main event loop...
+2025-10-25 22:30:13 - __main__ - INFO - Entering main event loop...
+2025-10-25 22:30:13 - src.strategy.symbol_prioritizer - WARNING - No symbols with data to prioritize
+2025-10-25 22:30:13 - src.strategy.symbol_prioritizer - WARNING - No symbols with data to prioritize
+2025-10-25 22:30:13 - src.strategy.zone_detector - INFO - Updated zones for 0 symbols
+2025-10-25 22:30:13 - src.strategy.zone_detector - INFO - Updated zones for 0 symbols
+2025-10-25 22:30:13 - src.strategy.liquidation_aggregator - INFO - Updated liquidation percentiles for 0 symbols
+2025-10-25 22:30:13 - src.strategy.liquidation_aggregator - INFO - Updated liquidation percentiles for 0 symbols
+2025-10-25 22:30:13 - src.strategy.pair_clustering - WARNING - Not enough symbols for clustering
+2025-10-25 22:30:13 - src.strategy.pair_clustering - WARNING - Not enough symbols for clustering
+2025-10-25 22:30:13 - src.binance.websocket_client - INFO - WS-15m connecting to 526 streams
+2025-10-25 22:30:13 - src.binance.websocket_client - INFO - WS-15m connecting to 526 streams
+2025-10-25 22:30:13 - src.binance.websocket_client - INFO - WS-Liquidations connecting to 1 streams
+2025-10-25 22:30:13 - src.binance.websocket_client - INFO - WS-Liquidations connecting to 1 streams
+2025-10-25 22:30:13 - src.binance.websocket_client - INFO - WS-Liquidations connected successfully
+2025-10-25 22:30:13 - src.binance.websocket_client - INFO - WS-Liquidations connected successfully
+2025-10-25 22:30:14 - src.binance.websocket_client - INFO - WS-15m connected successfully
+2025-10-25 22:30:14 - src.binance.websocket_client - INFO - WS-15m connected successfully
+2025-10-25 22:31:04 - src.strategy.liquidity_filter - INFO - Liquidity filter updated: 128 symbols passed (from 617 total)
+2025-10-25 22:31:04 - src.strategy.liquidity_filter - INFO - Liquidity filter updated: 128 symbols passed (from 617 total)
+2025-10-25 22:31:13 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 518 symbols
+2025-10-25 22:31:13 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 518 symbols
+2025-10-25 22:32:13 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 526 symbols
+2025-10-25 22:32:13 - __main__ - INFO - Trading stats: 0 trades, Win rate: 0.0%, Cache: 526 symbols
