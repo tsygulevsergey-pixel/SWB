@@ -19,7 +19,7 @@ class StrategyConfig:
     
     wick_body_ratio: float = 0.0
     
-    liq_percentile_base: int = 80
+    liq_percentile_base: int = 50
     liq_percentile_strict: int = 97
     liq_min_usd: float = 100_000
     liq_window_minutes: int = 4

@@ -51,9 +51,9 @@ class LSFPDetector:
                 logger.info(f"[{symbol}] Wick/body ratio check failed")
                 return None
             
-            logger.info(f"[{symbol}] Checking liquidation cluster (p95)")
-            if not self.liq_aggregator.is_liquidation_cluster(symbol, minutes=4, threshold_percentile=95):
-                logger.info(f"[{symbol}] No liquidation cluster at p95")
+            logger.info(f"[{symbol}] Checking liquidation cluster (p{self.config.liq_percentile_base})")
+            if not self.liq_aggregator.is_liquidation_cluster(symbol, minutes=4, threshold_percentile=self.config.liq_percentile_base):
+                logger.info(f"[{symbol}] No liquidation cluster at p{self.config.liq_percentile_base}")
                 return None
             
             logger.info(f"[{symbol}] Calculating OI delta")
