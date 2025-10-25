@@ -1,0 +1,60 @@
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# python main.py
+2025-10-25 22:39:36 - root - INFO - Logging configured with level: INFO, timezone: Europe/Kiev
+2025-10-25 22:39:36 - __main__ - INFO - === Starting LSFP-15 Trading Bot ===
+2025-10-25 22:39:36 - __main__ - INFO - Initializing database...
+2025-10-25 22:39:36 - src.database.schema - INFO - Database schema created successfully
+2025-10-25 22:39:36 - src.database.schema - INFO - Database initialized successfully
+2025-10-25 22:39:36 - __main__ - INFO - 📡 Using REAL Binance API (production mode)
+2025-10-25 22:39:36 - src.binance.rate_limiter - INFO - Rate limiter initialized: max_weight=2400/min, pause_threshold=2160
+2025-10-25 22:39:36 - src.binance.rest_client - INFO - REST client started
+2025-10-25 22:39:36 - src.binance.real_provider - INFO - Real Binance provider started
+2025-10-25 22:39:36 - __main__ - INFO - Fetching USDT perpetual symbols...
+2025-10-25 22:39:36 - src.binance.rest_client - INFO - Found 526 active USDT perpetual contracts
+2025-10-25 22:39:36 - __main__ - INFO - Found 526 USDT perpetual pairs
+2025-10-25 22:39:36 - __main__ - INFO - Initializing Telegram bot...
+2025-10-25 22:39:37 - src.telegram_bot.bot - INFO - Telegram bot started
+2025-10-25 22:39:37 - __main__ - INFO - Initializing market cache...
+2025-10-25 22:39:37 - src.cache.market_cache - INFO - Market cache started (sync interval: 300s)
+2025-10-25 22:39:37 - __main__ - INFO - Initializing strategy modules...
+2025-10-25 22:39:37 - src.strategy.liquidity_filter - INFO - Liquidity filter started (update interval: 15m)
+2025-10-25 22:39:37 - src.strategy.symbol_prioritizer - INFO - Symbol prioritizer started (update interval: 10m)
+2025-10-25 22:39:37 - src.strategy.zone_detector - INFO - Zone detector started (update interval: 30m)
+2025-10-25 22:39:37 - src.strategy.liquidation_aggregator - INFO - Liquidation aggregator started (update interval: 6h)
+2025-10-25 22:39:37 - src.strategy.oi_calculator - INFO - OI calculator started (update interval: 5m)
+2025-10-25 22:39:37 - src.strategy.pair_clustering - INFO - Pair clustering started (recalc at 0:00)
+2025-10-25 22:39:37 - src.strategy.virtual_trader - INFO - Virtual trader started (update interval: 60s)
+2025-10-25 22:39:37 - __main__ - INFO - Loading historical data for symbols...
+2025-10-25 22:39:37 - __main__ - INFO - Loaded historical data for 0 symbols
+2025-10-25 22:39:37 - __main__ - INFO - Setting up WebSocket connections...
+2025-10-25 22:39:37 - src.binance.real_provider - INFO - Subscribed to 526 symbols for 15m klines
+2025-10-25 22:39:37 - __main__ - INFO - WebSocket 15m: subscribed to 526 symbols
+2025-10-25 22:39:37 - src.binance.real_provider - INFO - Subscribed to liquidation events
+2025-10-25 22:39:37 - __main__ - INFO - WebSocket liquidations: subscribed to market-wide force orders
+2025-10-25 22:39:37 - __main__ - INFO - === LSFP-15 Bot started successfully ===
+2025-10-25 22:39:37 - __main__ - INFO - Data mode: 📡 REAL
+2025-10-25 22:39:37 - __main__ - INFO - Monitoring 526 symbols
+2025-10-25 22:39:37 - __main__ - INFO - Timezone: Europe/Kiev
+2025-10-25 22:39:37 - __main__ - INFO - Telegram bot active: True
+2025-10-25 22:39:37 - __main__ - INFO - Entering main event loop...
+2025-10-25 22:39:37 - src.strategy.symbol_prioritizer - WARNING - No symbols with data to prioritize
+2025-10-25 22:39:37 - src.strategy.zone_detector - INFO - Updated zones for 0 symbols
+2025-10-25 22:39:37 - src.strategy.liquidation_aggregator - INFO - Updated liquidation percentiles for 0 symbols
+2025-10-25 22:39:37 - src.strategy.pair_clustering - WARNING - Not enough symbols for clustering
+2025-10-25 22:39:37 - src.binance.websocket_client - INFO - WS-15m connecting to 526 streams
+2025-10-25 22:39:37 - src.binance.websocket_client - INFO - WS-Liquidations connecting to 1 streams
+2025-10-25 22:39:37 - src.binance.websocket_client - INFO - WS-Liquidations connected successfully
+2025-10-25 22:39:38 - src.binance.websocket_client - INFO - WS-15m connected successfully
+2025-10-25 22:39:38 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:39:40 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:39:42 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:39:44 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:39:49 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:39:49 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:39:52 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:39:52 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:39:54 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:39:56 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:39:58 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:39:59 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:39:59 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:40:00 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}

@@ -252,31 +252,30 @@ class MarketCache:
         try:
             async with self.db_pool.acquire() as conn:
                 for candle in candles[-10:]:
-                    await conn.execute("""
-                        INSERT INTO klines (
-                            symbol, interval, open_time, close_time,
-                            open, high, low, close, volume, quote_volume,
-                            trades, taker_buy_base, taker_buy_quote
-                        ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13)
-                        ON CONFLICT (symbol, interval, open_time) DO UPDATE SET
+                    interval = candle.get('interval', '15m')
+                    table_name = f"klines_{interval}"
+                    
+                    await conn.execute(f"""
+                        INSERT INTO {table_name} (
+                            symbol, open_time, close_time,
+                            open, high, low, close, volume, quote_volume, trades
+                        ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10)
+                        ON CONFLICT (symbol, open_time) DO UPDATE SET
                             close = EXCLUDED.close,
                             high = EXCLUDED.high,
                             low = EXCLUDED.low,
                             volume = EXCLUDED.volume
                     """, 
-                        symbol, 
-                        candle.get('interval', '15m'),
-                        datetime.fromtimestamp(candle['open_time'] / 1000),
-                        datetime.fromtimestamp(candle['close_time'] / 1000),
+                        symbol,
+                        candle['open_time'],
+                        candle['close_time'],
                         candle['open'],
                         candle['high'],
                         candle['low'],
                         candle['close'],
                         candle['volume'],
                         candle.get('quote_volume', 0),
-                        candle.get('trades', 0),
-                        candle.get('taker_buy_base', 0),
-                        candle.get('taker_buy_quote', 0)
+                        candle.get('trades', 0)
                     )
         except Exception as e:
             logger.error(f"Error saving candles to DB for {symbol}: {e}")
