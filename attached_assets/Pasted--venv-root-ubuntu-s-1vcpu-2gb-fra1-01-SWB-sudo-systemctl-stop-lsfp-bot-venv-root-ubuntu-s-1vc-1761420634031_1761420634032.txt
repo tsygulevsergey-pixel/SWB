@@ -1,0 +1,22 @@
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# sudo systemctl stop lsfp-bot
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# sudo nano /etc/systemd/system/lsfp-bot.service
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# sudo systemctl daemon-reload
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# sudo systemctl start lsfp-bot
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# tail -f /root/SWB/bot.log
+2025-10-25 22:30:16 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:16 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:16 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:16 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:18 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:18 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:21 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:21 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:22 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:22 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:22 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:22 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:22 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:22 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:25 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-10-25 22:30:25 - src.binance.rest_client - ERROR - Request failed: 400 - {"code":-4108,"msg":"Symbol is on delivering or delivered or settling or closed or pre-trading."}
+2025-
