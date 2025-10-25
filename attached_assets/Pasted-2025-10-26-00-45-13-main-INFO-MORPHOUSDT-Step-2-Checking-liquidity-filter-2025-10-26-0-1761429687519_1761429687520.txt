@@ -1,0 +1,790 @@
+2025-10-26 00:45:13 - __main__ - INFO - [MORPHOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MORPHOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MORPHOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [MORPHOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [MORPHOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [MORPHOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [MORPHOUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [MORPHOUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [MILKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MILKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FLUIDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FLUIDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [POPCATUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [POPCATUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [POPCATUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [POPCATUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [POPCATUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [POPCATUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [POPCATUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [POPCATUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [BANANAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BANANAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ORDIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ORDIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ORDIUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [ORDIUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ORDIUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ORDIUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ORDIUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ORDIUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [BIGTIMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BIGTIMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [VICUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [VICUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CFXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CFXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PNUTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PNUTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PNUTUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [PNUTUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PNUTUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PNUTUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PNUTUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PNUTUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [CTSIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CTSIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000BONKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000BONKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000BONKUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [1000BONKUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [ARKMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ARKMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [OXTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [OXTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BSVUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BSVUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000CHEEMSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000CHEEMSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [UNIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [UNIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [UNIUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [UNIUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [UNIUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [UNIUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [UNIUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [UNIUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [GMXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [GMXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DEXEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DEXEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ALCHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ALCHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SYRUPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SYRUPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [GPSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [GPSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FLMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FLMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NEIROUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NEIROUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NEIROUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [NEIROUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [NEIROUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [NEIROUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [NEIROUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [NEIROUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [CETUSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CETUSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONDOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONDOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONDOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [ONDOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ONDOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ONDOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ONDOUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ONDOUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [1000RATSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000RATSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LSKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LSKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [TSTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [TSTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BMTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BMTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PENGUUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PENGUUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PENGUUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [PENGUUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PENGUUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PENGUUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PENGUUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PENGUUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [XTZUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [XTZUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SUSHIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SUSHIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [KNCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [KNCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DOTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DOTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DOTUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [DOTUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [DOTUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [DOTUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [DOTUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [DOTUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [KAIAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [KAIAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LDOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LDOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LDOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [LDOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LDOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LDOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LDOUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LDOUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [MAVIAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MAVIAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FISUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FISUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NOMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NOMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [INUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [INUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [INUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [INUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [INUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [INUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [INUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [INUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [ARBUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ARBUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [AGLDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [AGLDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PLAYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PLAYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CHZUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CHZUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [GMTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [GMTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000LUNCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000LUNCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HFTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HFTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [KOMAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [KOMAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ANIMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ANIMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SWELLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SWELLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BABYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BABYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ASTRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ASTRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [THEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [THEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [KSMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [KSMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DMCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DMCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [YFIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [YFIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SNXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SNXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SNXUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [SNXUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [SNXUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [SNXUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [SNXUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [SNXUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [HEIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HEIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONGUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONGUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1MBABYDOGEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1MBABYDOGEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ASRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ASRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [WUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [WUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [WUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [WUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [WUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [WUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [WUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [WUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [QUICKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [QUICKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [VANAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [VANAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [EIGENUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [EIGENUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BCHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BCHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BCHUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [BCHUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [BCHUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [BCHUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [BCHUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [BCHUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [AGTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [AGTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HBARUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HBARUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HBARUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [HBARUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [HBARUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [HBARUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [HBARUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [HBARUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [BRETTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BRETTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NKNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NKNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IMXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IMXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ACXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ACXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IPUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [IPUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [IPUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [IPUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [IPUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [IPUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [SFPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SFPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LYNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LYNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LYNUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [LYNUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LYNUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LYNUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LYNUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LYNUSDT] No sweep detected
+^C
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# git pull
+Already up to date.
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# git pull
+remote: Enumerating objects: 12, done.
+remote: Counting objects: 100% (12/12), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 7 (delta 5), reused 7 (delta 5), pack-reused 0 (from 0)
+Unpacking objects: 100% (7/7), 4.26 KiB | 198.00 KiB/s, done.
+From https://github.com/tsygulevsergey-pixel/SWB
+   17d2e39..86e50b6  main       -> origin/main
+Updating 17d2e39..86e50b6
+Fast-forward
+ ...king-liquidity-filter-2025-10-26-00-1761428746677_1761428746679.txt | 1046 +++++++++++++++++++++++++++++++
+ src/strategy/lsfp_detector.py                                          |    5 +
+ 2 files changed, 1051 insertions(+)
+ create mode 100644 attached_assets/Pasted-2025-10-26-00-45-10-main-INFO-TOSHIUSDT-Step-2-Checking-liquidity-filter-2025-10-26-00-1761428746677_1761428746679.txt
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# sudo systemctl restart lsfp-bot
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# tail -20 /root/SWB/bot.log | grep "Bot started"
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# tail -f /root/SWB/bot.log | grep -E "(Sweep check|sweep detected)"
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SEIUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.000900, min_required=0.000079 (ATR=0.000393)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SEIUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.000900, min_required=0.000079 (ATR=0.000393)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SEIUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SEIUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [FUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000022 (ATR=0.000112)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [FUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000022 (ATR=0.000112)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [FUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [FUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [COAIUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.008800 (ATR=0.044000)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [COAIUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.008800 (ATR=0.044000)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [COAIUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [COAIUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PNUTUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.000510, min_required=0.000028 (ATR=0.000142)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PNUTUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.000510, min_required=0.000028 (ATR=0.000142)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PNUTUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PNUTUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BASUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000010 (ATR=0.000049)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BASUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000010 (ATR=0.000049)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BASUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BASUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [HOLOUSDT] Sweep check: high_sweep=-0.005700, low_sweep=-0.001300, min_required=0.000539 (ATR=0.002693)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [HOLOUSDT] Sweep check: high_sweep=-0.005700, low_sweep=-0.001300, min_required=0.000539 (ATR=0.002693)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [HOLOUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [HOLOUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [1000FLOKIUSDT] Sweep check: high_sweep=-0.000070, low_sweep=-0.000120, min_required=0.000002 (ATR=0.000008)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [1000FLOKIUSDT] Sweep check: high_sweep=-0.000070, low_sweep=-0.000120, min_required=0.000002 (ATR=0.000008)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [1000FLOKIUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [1000FLOKIUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SANDUSDT] Sweep check: high_sweep=-0.000010, low_sweep=-0.000550, min_required=0.000064 (ATR=0.000319)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SANDUSDT] Sweep check: high_sweep=-0.000010, low_sweep=-0.000550, min_required=0.000064 (ATR=0.000319)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SANDUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SANDUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BIOUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000008 (ATR=0.000040)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BIOUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000008 (ATR=0.000040)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BIOUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BIOUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PAXGUSDT] Sweep check: high_sweep=0.000000, low_sweep=-1.040000, min_required=0.075857 (ATR=0.379286)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PAXGUSDT] Sweep check: high_sweep=0.000000, low_sweep=-1.040000, min_required=0.075857 (ATR=0.379286)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PAXGUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PAXGUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [APRUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000044 (ATR=0.000220)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [APRUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000044 (ATR=0.000220)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [APRUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [APRUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ETHFIUSDT] Sweep check: high_sweep=-0.000300, low_sweep=-0.003000, min_required=0.000060 (ATR=0.000300)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ETHFIUSDT] Sweep check: high_sweep=-0.000300, low_sweep=-0.003000, min_required=0.000060 (ATR=0.000300)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ETHFIUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ETHFIUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AIXBTUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000080 (ATR=0.000401)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AIXBTUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000080 (ATR=0.000401)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AIXBTUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AIXBTUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AIAUSDT] Sweep check: high_sweep=-0.008000, low_sweep=-0.006600, min_required=0.000234 (ATR=0.001171)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AIAUSDT] Sweep check: high_sweep=-0.008000, low_sweep=-0.006600, min_required=0.000234 (ATR=0.001171)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AIAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AIAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TOSHIUSDT] Sweep check: high_sweep=-0.000002, low_sweep=-0.000006, min_required=0.000000 (ATR=0.000002)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TOSHIUSDT] Sweep check: high_sweep=-0.000002, low_sweep=-0.000006, min_required=0.000000 (ATR=0.000002)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TOSHIUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TOSHIUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ADAUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000040 (ATR=0.000200)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ADAUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000040 (ATR=0.000200)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ADAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ADAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [2ZUSDT] Sweep check: high_sweep=-0.000200, low_sweep=-0.000380, min_required=0.000056 (ATR=0.000281)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [2ZUSDT] Sweep check: high_sweep=-0.000200, low_sweep=-0.000380, min_required=0.000056 (ATR=0.000281)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [2ZUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [2ZUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [EDENUSDT] Sweep check: high_sweep=-0.001000, low_sweep=-0.003300, min_required=0.000036 (ATR=0.000179)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [EDENUSDT] Sweep check: high_sweep=-0.001000, low_sweep=-0.003300, min_required=0.000036 (ATR=0.000179)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [EDENUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [EDENUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AVAXUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.001371 (ATR=0.006857)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AVAXUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.001371 (ATR=0.006857)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AVAXUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AVAXUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DASHUSDT] Sweep check: high_sweep=-0.060000, low_sweep=-0.050000, min_required=0.013429 (ATR=0.067143)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DASHUSDT] Sweep check: high_sweep=-0.060000, low_sweep=-0.050000, min_required=0.013429 (ATR=0.067143)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DASHUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DASHUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [RECALLUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000133 (ATR=0.000667)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [RECALLUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000133 (ATR=0.000667)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [RECALLUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [RECALLUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [XANUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000036 (ATR=0.000181)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [XANUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000036 (ATR=0.000181)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [XANUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [XANUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ZECUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.014000 (ATR=0.070000)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ZECUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.014000 (ATR=0.070000)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ZECUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ZECUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [HBARUSDT] Sweep check: high_sweep=-0.000180, low_sweep=-0.000490, min_required=0.000053 (ATR=0.000267)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [HBARUSDT] Sweep check: high_sweep=-0.000180, low_sweep=-0.000490, min_required=0.000053 (ATR=0.000267)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [HBARUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [HBARUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [APEUSDT] Sweep check: high_sweep=-0.000400, low_sweep=-0.002800, min_required=0.000040 (ATR=0.000200)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [APEUSDT] Sweep check: high_sweep=-0.000400, low_sweep=-0.002800, min_required=0.000040 (ATR=0.000200)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [APEUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [APEUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ENSOUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.008000, min_required=0.000571 (ATR=0.002857)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ENSOUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.008000, min_required=0.000571 (ATR=0.002857)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ENSOUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ENSOUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DOTUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.009000, min_required=0.000200 (ATR=0.001000)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DOTUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.009000, min_required=0.000200 (ATR=0.001000)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DOTUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DOTUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [B2USDT] Sweep check: high_sweep=-0.003200, low_sweep=-0.002000, min_required=0.000436 (ATR=0.002179)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [B2USDT] Sweep check: high_sweep=-0.003200, low_sweep=-0.002000, min_required=0.000436 (ATR=0.002179)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [B2USDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [B2USDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [KDAUSDT] Sweep check: high_sweep=-0.000300, low_sweep=-0.000100, min_required=0.000020 (ATR=0.000100)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [KDAUSDT] Sweep check: high_sweep=-0.000300, low_sweep=-0.000100, min_required=0.000020 (ATR=0.000100)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [KDAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [KDAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [RVVUSDT] Sweep check: high_sweep=-0.000153, low_sweep=-0.000059, min_required=0.000020 (ATR=0.000098)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [RVVUSDT] Sweep check: high_sweep=-0.000153, low_sweep=-0.000059, min_required=0.000020 (ATR=0.000098)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [RVVUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [RVVUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ARUSDT] Sweep check: high_sweep=-0.002000, low_sweep=-0.013000, min_required=0.002729 (ATR=0.013643)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ARUSDT] Sweep check: high_sweep=-0.002000, low_sweep=-0.013000, min_required=0.002729 (ATR=0.013643)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ARUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ARUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ENAUSDT] Sweep check: high_sweep=-0.000400, low_sweep=-0.001300, min_required=0.000074 (ATR=0.000371)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ENAUSDT] Sweep check: high_sweep=-0.000400, low_sweep=-0.001300, min_required=0.000074 (ATR=0.000371)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ENAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ENAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BLUAIUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000011 (ATR=0.000057)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BLUAIUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000011 (ATR=0.000057)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BLUAIUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BLUAIUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [CRVUSDT] Sweep check: high_sweep=-0.001000, low_sweep=-0.002000, min_required=0.000329 (ATR=0.001643)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [CRVUSDT] Sweep check: high_sweep=-0.001000, low_sweep=-0.002000, min_required=0.000329 (ATR=0.001643)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [CRVUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [CRVUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LINKUSDT] Sweep check: high_sweep=-0.005000, low_sweep=-0.034000, min_required=0.000400 (ATR=0.002000)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LINKUSDT] Sweep check: high_sweep=-0.005000, low_sweep=-0.034000, min_required=0.000400 (ATR=0.002000)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LINKUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LINKUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LYNUSDT] Sweep check: high_sweep=-0.000190, low_sweep=-0.003740, min_required=0.000205 (ATR=0.001023)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LYNUSDT] Sweep check: high_sweep=-0.000190, low_sweep=-0.003740, min_required=0.000205 (ATR=0.001023)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LYNUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LYNUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [CAKEUSDT] Sweep check: high_sweep=-0.000500, low_sweep=-0.008300, min_required=0.000043 (ATR=0.000214)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [CAKEUSDT] Sweep check: high_sweep=-0.000500, low_sweep=-0.008300, min_required=0.000043 (ATR=0.000214)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [CAKEUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [CAKEUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TRADOORUSDT] Sweep check: high_sweep=-0.012000, low_sweep=-0.034000, min_required=0.008686 (ATR=0.043429)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TRADOORUSDT] Sweep check: high_sweep=-0.012000, low_sweep=-0.034000, min_required=0.008686 (ATR=0.043429)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TRADOORUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TRADOORUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BANKUSDT] Sweep check: high_sweep=-0.000910, low_sweep=-0.000260, min_required=0.000015 (ATR=0.000073)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BANKUSDT] Sweep check: high_sweep=-0.000910, low_sweep=-0.000260, min_required=0.000015 (ATR=0.000073)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BANKUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [BANKUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ICPUSDT] Sweep check: high_sweep=-0.004000, low_sweep=-0.006000, min_required=0.001543 (ATR=0.007714)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ICPUSDT] Sweep check: high_sweep=-0.004000, low_sweep=-0.006000, min_required=0.001543 (ATR=0.007714)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ICPUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ICPUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [MIRAUSDT] Sweep check: high_sweep=-0.000200, low_sweep=-0.001100, min_required=0.000029 (ATR=0.000143)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [MIRAUSDT] Sweep check: high_sweep=-0.000200, low_sweep=-0.001100, min_required=0.000029 (ATR=0.000143)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [MIRAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [MIRAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [EULUSDT] Sweep check: high_sweep=-0.015000, low_sweep=-0.008000, min_required=0.004871 (ATR=0.024357)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [EULUSDT] Sweep check: high_sweep=-0.015000, low_sweep=-0.008000, min_required=0.004871 (ATR=0.024357)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [EULUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [EULUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SIGNUSDT] Sweep check: high_sweep=-0.000010, low_sweep=-0.000150, min_required=0.000016 (ATR=0.000079)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SIGNUSDT] Sweep check: high_sweep=-0.000010, low_sweep=-0.000150, min_required=0.000016 (ATR=0.000079)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SIGNUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SIGNUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [GRIFFAINUSDT] Sweep check: high_sweep=-0.000130, low_sweep=-0.000070, min_required=0.000034 (ATR=0.000168)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [GRIFFAINUSDT] Sweep check: high_sweep=-0.000130, low_sweep=-0.000070, min_required=0.000034 (ATR=0.000168)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [GRIFFAINUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [GRIFFAINUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [币安人生USDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000090 (ATR=0.000450)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [币安人生USDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000090 (ATR=0.000450)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [币安人生USDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [币安人生USDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [JUPUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.000500, min_required=0.000011 (ATR=0.000057)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [JUPUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.000500, min_required=0.000011 (ATR=0.000057)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [JUPUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [JUPUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [QUSDT] Sweep check: high_sweep=-0.000102, low_sweep=-0.000315, min_required=0.000006 (ATR=0.000029)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [QUSDT] Sweep check: high_sweep=-0.000102, low_sweep=-0.000315, min_required=0.000006 (ATR=0.000029)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [QUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [QUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TREEUSDT] Sweep check: high_sweep=-0.000300, low_sweep=-0.000400, min_required=0.000060 (ATR=0.000300)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TREEUSDT] Sweep check: high_sweep=-0.000300, low_sweep=-0.000400, min_required=0.000060 (ATR=0.000300)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TREEUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TREEUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [XMRUSDT] Sweep check: high_sweep=0.000000, low_sweep=-1.060000, min_required=0.006571 (ATR=0.032857)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [XMRUSDT] Sweep check: high_sweep=0.000000, low_sweep=-1.060000, min_required=0.006571 (ATR=0.032857)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [XMRUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [XMRUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [GALAUSDT] Sweep check: high_sweep=-0.000010, low_sweep=-0.000040, min_required=0.000003 (ATR=0.000016)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [GALAUSDT] Sweep check: high_sweep=-0.000010, low_sweep=-0.000040, min_required=0.000003 (ATR=0.000016)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [GALAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [GALAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ZORAUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000039 (ATR=0.000196)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ZORAUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000039 (ATR=0.000196)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ZORAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ZORAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [MLNUSDT] Sweep check: high_sweep=-0.035000, low_sweep=-0.004000, min_required=0.001014 (ATR=0.005071)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [MLNUSDT] Sweep check: high_sweep=-0.035000, low_sweep=-0.004000, min_required=0.001014 (ATR=0.005071)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [MLNUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [MLNUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DOODUSDT] Sweep check: high_sweep=-0.000036, low_sweep=-0.000021, min_required=0.000002 (ATR=0.000011)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DOODUSDT] Sweep check: high_sweep=-0.000036, low_sweep=-0.000021, min_required=0.000002 (ATR=0.000011)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DOODUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DOODUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [COOKIEUSDT] Sweep check: high_sweep=-0.001000, low_sweep=-0.000500, min_required=0.000034 (ATR=0.000171)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [COOKIEUSDT] Sweep check: high_sweep=-0.001000, low_sweep=-0.000500, min_required=0.000034 (ATR=0.000171)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [COOKIEUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [COOKIEUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [USELESSUSDT] Sweep check: high_sweep=-0.000500, low_sweep=-0.002300, min_required=0.000186 (ATR=0.000929)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [USELESSUSDT] Sweep check: high_sweep=-0.000500, low_sweep=-0.002300, min_required=0.000186 (ATR=0.000929)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [USELESSUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [USELESSUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SPKUSDT] Sweep check: high_sweep=-0.000090, low_sweep=-0.000260, min_required=0.000002 (ATR=0.000010)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SPKUSDT] Sweep check: high_sweep=-0.000090, low_sweep=-0.000260, min_required=0.000002 (ATR=0.000010)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SPKUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SPKUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ALICEUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.001000, min_required=0.000214 (ATR=0.001071)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ALICEUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.001000, min_required=0.000214 (ATR=0.001071)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ALICEUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ALICEUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AI16ZUSDT] Sweep check: high_sweep=-0.000100, low_sweep=-0.001200, min_required=0.000020 (ATR=0.000100)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AI16ZUSDT] Sweep check: high_sweep=-0.000100, low_sweep=-0.001200, min_required=0.000020 (ATR=0.000100)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AI16ZUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [AI16ZUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LINEAUSDT] Sweep check: high_sweep=-0.000020, low_sweep=-0.000050, min_required=0.000008 (ATR=0.000042)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LINEAUSDT] Sweep check: high_sweep=-0.000020, low_sweep=-0.000050, min_required=0.000008 (ATR=0.000042)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LINEAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LINEAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PHBUSDT] Sweep check: high_sweep=-0.003800, low_sweep=-0.003100, min_required=0.001009 (ATR=0.005043)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PHBUSDT] Sweep check: high_sweep=-0.003800, low_sweep=-0.003100, min_required=0.001009 (ATR=0.005043)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PHBUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PHBUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [HANAUSDT] Sweep check: high_sweep=-0.000110, low_sweep=-0.000600, min_required=0.000008 (ATR=0.000041)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [HANAUSDT] Sweep check: high_sweep=-0.000110, low_sweep=-0.000600, min_required=0.000008 (ATR=0.000041)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [HANAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [HANAUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DEGOUSDT] Sweep check: high_sweep=-0.006100, low_sweep=-0.002500, min_required=0.000226 (ATR=0.001129)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DEGOUSDT] Sweep check: high_sweep=-0.006100, low_sweep=-0.002500, min_required=0.000226 (ATR=0.001129)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DEGOUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [DEGOUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PORT3USDT] Sweep check: high_sweep=-0.000600, low_sweep=-0.000040, min_required=0.000039 (ATR=0.000194)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PORT3USDT] Sweep check: high_sweep=-0.000600, low_sweep=-0.000040, min_required=0.000039 (ATR=0.000194)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PORT3USDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [PORT3USDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [1000PEPEUSDT] Sweep check: high_sweep=-0.000002, low_sweep=-0.000019, min_required=0.000001 (ATR=0.000006)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [1000PEPEUSDT] Sweep check: high_sweep=-0.000002, low_sweep=-0.000019, min_required=0.000001 (ATR=0.000006)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [1000PEPEUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [1000PEPEUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SOONUSDT] Sweep check: high_sweep=-0.001200, low_sweep=-0.002600, min_required=0.000671 (ATR=0.003357)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SOONUSDT] Sweep check: high_sweep=-0.001200, low_sweep=-0.002600, min_required=0.000671 (ATR=0.003357)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SOONUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [SOONUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [METUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000040 (ATR=0.000200)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [METUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000040 (ATR=0.000200)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [METUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [METUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [POPCATUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000101 (ATR=0.000507)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [POPCATUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000101 (ATR=0.000507)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [POPCATUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [POPCATUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TONUSDT] Sweep check: high_sweep=-0.000900, low_sweep=-0.005000, min_required=0.000379 (ATR=0.001893)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TONUSDT] Sweep check: high_sweep=-0.000900, low_sweep=-0.005000, min_required=0.000379 (ATR=0.001893)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TONUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [TONUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ZBTUSDT] Sweep check: high_sweep=-0.001200, low_sweep=0.000000, min_required=0.000131 (ATR=0.000657)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ZBTUSDT] Sweep check: high_sweep=-0.001200, low_sweep=0.000000, min_required=0.000131 (ATR=0.000657)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ZBTUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [ZBTUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LABUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000180 (ATR=0.000900)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LABUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000180 (ATR=0.000900)
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LABUSDT] No sweep detected
+2025-10-26 01:00:10 - src.strategy.lsfp_detector - INFO - [LABUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [PENGUUSDT] Sweep check: high_sweep=-0.000019, low_sweep=-0.000042, min_required=0.000004 (ATR=0.000019)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [PENGUUSDT] Sweep check: high_sweep=-0.000019, low_sweep=-0.000042, min_required=0.000004 (ATR=0.000019)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [PENGUUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [PENGUUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [AEROUSDT] Sweep check: high_sweep=-0.001200, low_sweep=-0.007100, min_required=0.000383 (ATR=0.001914)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [AEROUSDT] Sweep check: high_sweep=-0.001200, low_sweep=-0.007100, min_required=0.000383 (ATR=0.001914)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [AEROUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [AEROUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [TIAUSDT] Sweep check: high_sweep=-0.000900, low_sweep=-0.002800, min_required=0.000221 (ATR=0.001107)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [TIAUSDT] Sweep check: high_sweep=-0.000900, low_sweep=-0.002800, min_required=0.000221 (ATR=0.001107)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [TIAUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [TIAUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [SNXUSDT] Sweep check: high_sweep=-0.001000, low_sweep=-0.002000, min_required=0.000371 (ATR=0.001857)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [SNXUSDT] Sweep check: high_sweep=-0.001000, low_sweep=-0.002000, min_required=0.000371 (ATR=0.001857)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [SNXUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [SNXUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [JTOUSDT] Sweep check: high_sweep=-0.000400, low_sweep=-0.002500, min_required=0.000651 (ATR=0.003257)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [JTOUSDT] Sweep check: high_sweep=-0.000400, low_sweep=-0.002500, min_required=0.000651 (ATR=0.003257)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [JTOUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [JTOUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [AUCTIONUSDT] Sweep check: high_sweep=-0.003000, low_sweep=-0.029000, min_required=0.001057 (ATR=0.005286)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [AUCTIONUSDT] Sweep check: high_sweep=-0.003000, low_sweep=-0.029000, min_required=0.001057 (ATR=0.005286)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [AUCTIONUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [AUCTIONUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [XLMUSDT] Sweep check: high_sweep=-0.000160, low_sweep=-0.000570, min_required=0.000012 (ATR=0.000059)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [XLMUSDT] Sweep check: high_sweep=-0.000160, low_sweep=-0.000570, min_required=0.000012 (ATR=0.000059)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [XLMUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [XLMUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [MYXUSDT] Sweep check: high_sweep=-0.011000, low_sweep=-0.002000, min_required=0.001214 (ATR=0.006071)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [MYXUSDT] Sweep check: high_sweep=-0.011000, low_sweep=-0.002000, min_required=0.001214 (ATR=0.006071)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [MYXUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [MYXUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [OPENUSDT] Sweep check: high_sweep=-0.000600, low_sweep=-0.000800, min_required=0.000126 (ATR=0.000629)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [OPENUSDT] Sweep check: high_sweep=-0.000600, low_sweep=-0.000800, min_required=0.000126 (ATR=0.000629)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [OPENUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [OPENUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [TRUMPUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.010000, min_required=0.000986 (ATR=0.004929)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [TRUMPUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.010000, min_required=0.000986 (ATR=0.004929)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [TRUMPUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [TRUMPUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [SWARMSUSDT] Sweep check: high_sweep=-0.000010, low_sweep=-0.000170, min_required=0.000024 (ATR=0.000120)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [SWARMSUSDT] Sweep check: high_sweep=-0.000010, low_sweep=-0.000170, min_required=0.000024 (ATR=0.000120)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [SWARMSUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [SWARMSUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] Sweep check: high_sweep=-0.000003, low_sweep=-0.000057, min_required=0.000002 (ATR=0.000011)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] Sweep check: high_sweep=-0.000003, low_sweep=-0.000057, min_required=0.000002 (ATR=0.000011)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [IOUSDT] Sweep check: high_sweep=-0.001200, low_sweep=-0.000900, min_required=0.000383 (ATR=0.001914)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [IOUSDT] Sweep check: high_sweep=-0.001200, low_sweep=-0.000900, min_required=0.000383 (ATR=0.001914)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [IOUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [IOUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [1000SHIBUSDT] Sweep check: high_sweep=-0.000001, low_sweep=-0.000016, min_required=0.000001 (ATR=0.000005)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [1000SHIBUSDT] Sweep check: high_sweep=-0.000001, low_sweep=-0.000016, min_required=0.000001 (ATR=0.000005)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [1000SHIBUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [1000SHIBUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [SOPHUSDT] Sweep check: high_sweep=-0.000053, low_sweep=-0.000055, min_required=0.000020 (ATR=0.000098)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [SOPHUSDT] Sweep check: high_sweep=-0.000053, low_sweep=-0.000055, min_required=0.000020 (ATR=0.000098)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [SOPHUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [SOPHUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [PUMPBTCUSDT] Sweep check: high_sweep=-0.000110, low_sweep=-0.000500, min_required=0.000038 (ATR=0.000191)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [PUMPBTCUSDT] Sweep check: high_sweep=-0.000110, low_sweep=-0.000500, min_required=0.000038 (ATR=0.000191)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [PUMPBTCUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [PUMPBTCUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [NEIROUSDT] Sweep check: high_sweep=-0.000000, low_sweep=-0.000000, min_required=0.000000 (ATR=0.000000)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [NEIROUSDT] Sweep check: high_sweep=-0.000000, low_sweep=-0.000000, min_required=0.000000 (ATR=0.000000)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [NEIROUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [NEIROUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [API3USDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000520 (ATR=0.002600)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [API3USDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000520 (ATR=0.002600)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [API3USDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [API3USDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [FORMUSDT] Sweep check: high_sweep=-0.000900, low_sweep=-0.002000, min_required=0.000180 (ATR=0.000900)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [FORMUSDT] Sweep check: high_sweep=-0.000900, low_sweep=-0.002000, min_required=0.000180 (ATR=0.000900)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [FORMUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [FORMUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [XNYUSDT] Sweep check: high_sweep=-0.000039, low_sweep=-0.000102, min_required=0.000021 (ATR=0.000105)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [XNYUSDT] Sweep check: high_sweep=-0.000039, low_sweep=-0.000102, min_required=0.000021 (ATR=0.000105)
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [XNYUSDT] No sweep detected
+2025-10-26 01:00:11 - src.strategy.lsfp_detector - INFO - [XNYUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [INJUSDT] Sweep check: high_sweep=-0.003000, low_sweep=-0.020000, min_required=0.000957 (ATR=0.004786)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [INJUSDT] Sweep check: high_sweep=-0.003000, low_sweep=-0.020000, min_required=0.000957 (ATR=0.004786)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [INJUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [INJUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [ZENUSDT] Sweep check: high_sweep=-0.019000, low_sweep=-0.055000, min_required=0.000600 (ATR=0.003000)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [ZENUSDT] Sweep check: high_sweep=-0.019000, low_sweep=-0.055000, min_required=0.000600 (ATR=0.003000)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [ZENUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [ZENUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [CELOUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000200 (ATR=0.001000)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [CELOUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000200 (ATR=0.001000)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [CELOUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [CELOUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [PROVEUSDT] Sweep check: high_sweep=-0.000200, low_sweep=-0.002300, min_required=0.000077 (ATR=0.000386)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [PROVEUSDT] Sweep check: high_sweep=-0.000200, low_sweep=-0.002300, min_required=0.000077 (ATR=0.000386)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [PROVEUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [PROVEUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [SOMIUSDT] Sweep check: high_sweep=-0.000700, low_sweep=-0.001400, min_required=0.000154 (ATR=0.000771)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [SOMIUSDT] Sweep check: high_sweep=-0.000700, low_sweep=-0.001400, min_required=0.000154 (ATR=0.000771)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [SOMIUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [SOMIUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [FETUSDT] Sweep check: high_sweep=-0.000800, low_sweep=-0.000600, min_required=0.000083 (ATR=0.000414)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [FETUSDT] Sweep check: high_sweep=-0.000800, low_sweep=-0.000600, min_required=0.000083 (ATR=0.000414)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [FETUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [FETUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [BERAUSDT] Sweep check: high_sweep=-0.003000, low_sweep=-0.001000, min_required=0.000543 (ATR=0.002714)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [BERAUSDT] Sweep check: high_sweep=-0.003000, low_sweep=-0.001000, min_required=0.000543 (ATR=0.002714)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [BERAUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [BERAUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [APTUSDT] Sweep check: high_sweep=-0.001600, low_sweep=-0.007400, min_required=0.000307 (ATR=0.001536)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [APTUSDT] Sweep check: high_sweep=-0.001600, low_sweep=-0.007400, min_required=0.000307 (ATR=0.001536)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [APTUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [APTUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [WIFUSDT] Sweep check: high_sweep=-0.000500, low_sweep=-0.001500, min_required=0.000114 (ATR=0.000571)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [WIFUSDT] Sweep check: high_sweep=-0.000500, low_sweep=-0.001500, min_required=0.000114 (ATR=0.000571)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [WIFUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [WIFUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [TRBUSDT] Sweep check: high_sweep=-0.001000, low_sweep=-0.081000, min_required=0.008957 (ATR=0.044786)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [TRBUSDT] Sweep check: high_sweep=-0.001000, low_sweep=-0.081000, min_required=0.008957 (ATR=0.044786)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [TRBUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [TRBUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [EIGENUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000560 (ATR=0.002800)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [EIGENUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000560 (ATR=0.002800)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [EIGENUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [EIGENUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [OPUSDT] Sweep check: high_sweep=-0.000100, low_sweep=-0.001000, min_required=0.000034 (ATR=0.000171)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [OPUSDT] Sweep check: high_sweep=-0.000100, low_sweep=-0.001000, min_required=0.000034 (ATR=0.000171)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [OPUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [OPUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [SPXUSDT] Sweep check: high_sweep=-0.000100, low_sweep=-0.005100, min_required=0.000273 (ATR=0.001364)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [SPXUSDT] Sweep check: high_sweep=-0.000100, low_sweep=-0.005100, min_required=0.000273 (ATR=0.001364)
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [SPXUSDT] No sweep detected
+2025-10-26 01:00:12 - src.strategy.lsfp_detector - INFO - [SPXUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ORDIUSDT] Sweep check: high_sweep=-0.005000, low_sweep=-0.018000, min_required=0.004329 (ATR=0.021643)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ORDIUSDT] Sweep check: high_sweep=-0.005000, low_sweep=-0.018000, min_required=0.004329 (ATR=0.021643)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ORDIUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ORDIUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ALGOUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.000500, min_required=0.000099 (ATR=0.000493)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ALGOUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.000500, min_required=0.000099 (ATR=0.000493)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ALGOUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ALGOUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [NEARUSDT] Sweep check: high_sweep=-0.001000, low_sweep=-0.005000, min_required=0.000300 (ATR=0.001500)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [NEARUSDT] Sweep check: high_sweep=-0.001000, low_sweep=-0.005000, min_required=0.000300 (ATR=0.001500)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [NEARUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [NEARUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [UNIUSDT] Sweep check: high_sweep=-0.005000, low_sweep=-0.013000, min_required=0.000457 (ATR=0.002286)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [UNIUSDT] Sweep check: high_sweep=-0.005000, low_sweep=-0.013000, min_required=0.000457 (ATR=0.002286)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [UNIUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [UNIUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ONDOUSDT] Sweep check: high_sweep=-0.000200, low_sweep=-0.001900, min_required=0.000116 (ATR=0.000579)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ONDOUSDT] Sweep check: high_sweep=-0.000200, low_sweep=-0.001900, min_required=0.000116 (ATR=0.000579)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ONDOUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ONDOUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [LDOUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.003600, min_required=0.000197 (ATR=0.000986)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [LDOUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.003600, min_required=0.000197 (ATR=0.000986)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [LDOUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [LDOUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [INUSDT] Sweep check: high_sweep=-0.000210, low_sweep=-0.000800, min_required=0.000087 (ATR=0.000435)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [INUSDT] Sweep check: high_sweep=-0.000210, low_sweep=-0.000800, min_required=0.000087 (ATR=0.000435)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [INUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [INUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ARBUSDT] Sweep check: high_sweep=-0.000200, low_sweep=-0.000800, min_required=0.000074 (ATR=0.000371)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ARBUSDT] Sweep check: high_sweep=-0.000200, low_sweep=-0.000800, min_required=0.000074 (ATR=0.000371)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ARBUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ARBUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [WALUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.001100, min_required=0.000061 (ATR=0.000307)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [WALUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.001100, min_required=0.000061 (ATR=0.000307)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [WALUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [WALUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [WLFIUSDT] Sweep check: high_sweep=-0.000100, low_sweep=-0.000500, min_required=0.000050 (ATR=0.000250)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [WLFIUSDT] Sweep check: high_sweep=-0.000100, low_sweep=-0.000500, min_required=0.000050 (ATR=0.000250)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [WLFIUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [WLFIUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [FILUSDT] Sweep check: high_sweep=-0.001000, low_sweep=-0.003000, min_required=0.000400 (ATR=0.002000)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [FILUSDT] Sweep check: high_sweep=-0.001000, low_sweep=-0.003000, min_required=0.000400 (ATR=0.002000)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [FILUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [FILUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [OMUSDT] Sweep check: high_sweep=-0.000020, low_sweep=-0.000410, min_required=0.000080 (ATR=0.000400)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [OMUSDT] Sweep check: high_sweep=-0.000020, low_sweep=-0.000410, min_required=0.000080 (ATR=0.000400)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [OMUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [OMUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [WUSDT] Sweep check: high_sweep=-0.000060, low_sweep=-0.000160, min_required=0.000038 (ATR=0.000189)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [WUSDT] Sweep check: high_sweep=-0.000060, low_sweep=-0.000160, min_required=0.000038 (ATR=0.000189)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [WUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [WUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [STRKUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.000500, min_required=0.000083 (ATR=0.000414)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [STRKUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.000500, min_required=0.000083 (ATR=0.000414)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [STRKUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [STRKUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ATOMUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.006000, min_required=0.000400 (ATR=0.002000)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ATOMUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.006000, min_required=0.000400 (ATR=0.002000)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ATOMUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ATOMUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [LAUSDT] Sweep check: high_sweep=-0.000400, low_sweep=-0.001000, min_required=0.000113 (ATR=0.000564)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [LAUSDT] Sweep check: high_sweep=-0.000400, low_sweep=-0.001000, min_required=0.000113 (ATR=0.000564)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [LAUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [LAUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [PENDLEUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.008300, min_required=0.000481 (ATR=0.002407)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [PENDLEUSDT] Sweep check: high_sweep=0.000000, low_sweep=-0.008300, min_required=0.000481 (ATR=0.002407)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [PENDLEUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [PENDLEUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [DYDXUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000186 (ATR=0.000929)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [DYDXUSDT] Sweep check: high_sweep=0.000000, low_sweep=0.000000, min_required=0.000186 (ATR=0.000929)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [DYDXUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [DYDXUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [MOODENGUSDT] Sweep check: high_sweep=-0.000030, low_sweep=-0.000410, min_required=0.000041 (ATR=0.000207)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [MOODENGUSDT] Sweep check: high_sweep=-0.000030, low_sweep=-0.000410, min_required=0.000041 (ATR=0.000207)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [MOODENGUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [MOODENGUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [BCHUSDT] Sweep check: high_sweep=0.000000, low_sweep=-1.480000, min_required=0.086286 (ATR=0.431429)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [BCHUSDT] Sweep check: high_sweep=0.000000, low_sweep=-1.480000, min_required=0.086286 (ATR=0.431429)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [BCHUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [BCHUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ATHUSDT] Sweep check: high_sweep=-0.000030, low_sweep=-0.000240, min_required=0.000046 (ATR=0.000231)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ATHUSDT] Sweep check: high_sweep=-0.000030, low_sweep=-0.000240, min_required=0.000046 (ATR=0.000231)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ATHUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [ATHUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [RENDERUSDT] Sweep check: high_sweep=-0.003000, low_sweep=-0.006000, min_required=0.001643 (ATR=0.008214)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [RENDERUSDT] Sweep check: high_sweep=-0.003000, low_sweep=-0.006000, min_required=0.001643 (ATR=0.008214)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [RENDERUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [RENDERUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [IPUSDT] Sweep check: high_sweep=-0.003000, low_sweep=-0.019000, min_required=0.001186 (ATR=0.005929)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [IPUSDT] Sweep check: high_sweep=-0.003000, low_sweep=-0.019000, min_required=0.001186 (ATR=0.005929)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [IPUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [IPUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [MORPHOUSDT] Sweep check: high_sweep=-0.002700, low_sweep=-0.001000, min_required=0.000687 (ATR=0.003436)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [MORPHOUSDT] Sweep check: high_sweep=-0.002700, low_sweep=-0.001000, min_required=0.000687 (ATR=0.003436)
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [MORPHOUSDT] No sweep detected
+2025-10-26 01:00:13 - src.strategy.lsfp_detector - INFO - [MORPHOUSDT] No sweep detected
