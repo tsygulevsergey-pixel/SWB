@@ -1,0 +1,33 @@
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# grep -A 30 "XPINUSDT.*Sweep detected: SHORT" /root/SWB/bot.log | tail -60
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [XPINUSDT] Sweep detected: SHORT
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [XPINUSDT] Sweep detected: SHORT
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [XPINUSDT] Wick/body ratio check failed
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [XPINUSDT] Wick/body ratio check failed
+2025-10-26 01:15:10 - __main__ - INFO - [4USDT] Step 2: Checking liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - [4USDT] Step 2: Checking liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - [4USDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 01:15:10 - __main__ - INFO - [4USDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] LSFP detect_pattern started
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] LSFP detect_pattern started
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] Retrieved 25 candles from cache
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] Retrieved 25 candles from cache
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] Sweep check: high_sweep=0.000000, low_sweep=0.000040, min_required=0.000024 (ATR=0.000476)
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] Sweep check: high_sweep=0.000000, low_sweep=0.000040, min_required=0.000024 (ATR=0.000476)
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] ✅ LOW sweep detected: 0.000040 >= 0.000024
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] ✅ LOW sweep detected: 0.000040 >= 0.000024
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] Sweep detected: LONG
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] Sweep detected: LONG
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] Wick/body ratio check failed
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] Wick/body ratio check failed
+2025-10-26 01:15:10 - __main__ - INFO - [TAIKOUSDT] Step 2: Checking liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - [TAIKOUSDT] Step 2: Checking liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - TAIKOUSDT filtered out by liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - TAIKOUSDT filtered out by liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - [TURTLEUSDT] Step 2: Checking liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - [TURTLEUSDT] Step 2: Checking liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - [TURTLEUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 01:15:10 - __main__ - INFO - [TURTLEUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] LSFP detect_pattern started
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] LSFP detect_pattern started
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] Retrieved 25 candles from cache
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] Retrieved 25 candles from cache

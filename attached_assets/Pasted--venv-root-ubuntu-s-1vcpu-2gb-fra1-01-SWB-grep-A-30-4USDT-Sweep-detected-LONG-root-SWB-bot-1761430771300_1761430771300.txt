@@ -1,0 +1,33 @@
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# grep -A 30 "4USDT.*Sweep detected: LONG" /root/SWB/bot.log | tail -60
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] Sweep detected: LONG
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] Sweep detected: LONG
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] Wick/body ratio check failed
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [4USDT] Wick/body ratio check failed
+2025-10-26 01:15:10 - __main__ - INFO - [TAIKOUSDT] Step 2: Checking liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - [TAIKOUSDT] Step 2: Checking liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - TAIKOUSDT filtered out by liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - TAIKOUSDT filtered out by liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - [TURTLEUSDT] Step 2: Checking liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - [TURTLEUSDT] Step 2: Checking liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - [TURTLEUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 01:15:10 - __main__ - INFO - [TURTLEUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] LSFP detect_pattern started
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] LSFP detect_pattern started
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] Retrieved 25 candles from cache
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] Retrieved 25 candles from cache
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] Sweep check: high_sweep=-0.002500, low_sweep=0.000000, min_required=0.000053 (ATR=0.001057)
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] Sweep check: high_sweep=-0.002500, low_sweep=0.000000, min_required=0.000053 (ATR=0.001057)
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] No sweep detected
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] No sweep detected
+2025-10-26 01:15:10 - __main__ - INFO - [XANUSDT] Step 2: Checking liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - [XANUSDT] Step 2: Checking liquidity filter
+2025-10-26 01:15:10 - __main__ - INFO - [XANUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 01:15:10 - __main__ - INFO - [XANUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [XANUSDT] LSFP detect_pattern started
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [XANUSDT] LSFP detect_pattern started
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [XANUSDT] Retrieved 25 candles from cache
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [XANUSDT] Retrieved 25 candles from cache
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [XANUSDT] Sweep check: high_sweep=-0.001420, low_sweep=-0.000150, min_required=0.000006 (ATR=0.000123)
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [XANUSDT] Sweep check: high_sweep=-0.001420, low_sweep=-0.000150, min_required=0.000006 (ATR=0.000123)
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [XANUSDT] No sweep detected
+2025-10-26 01:15:10 - src.strategy.lsfp_detector - INFO - [XANUSDT] No sweep detected
