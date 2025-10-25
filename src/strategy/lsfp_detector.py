@@ -113,7 +113,11 @@ class LSFPDetector:
         
         min_sweep = atr * self.config.sweep_min_atr
         
+        symbol = candle.get('symbol', '?')
+        logger.info(f"[{symbol}] Sweep check: high_sweep={high_sweep_amount:.6f}, low_sweep={low_sweep_amount:.6f}, min_required={min_sweep:.6f} (ATR={atr:.6f})")
+        
         if high_sweep_amount >= min_sweep:
+            logger.info(f"[{symbol}] ✅ HIGH sweep detected: {high_sweep_amount:.6f} >= {min_sweep:.6f}")
             return {
                 'direction': 'SHORT',
                 'type': 'high_sweep',
@@ -123,6 +127,7 @@ class LSFPDetector:
             }
         
         if low_sweep_amount >= min_sweep:
+            logger.info(f"[{symbol}] ✅ LOW sweep detected: {low_sweep_amount:.6f} >= {min_sweep:.6f}")
             return {
                 'direction': 'LONG',
                 'type': 'low_sweep',

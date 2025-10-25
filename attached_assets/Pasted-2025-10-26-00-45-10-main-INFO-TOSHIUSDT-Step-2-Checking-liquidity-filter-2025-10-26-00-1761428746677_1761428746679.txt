@@ -1,0 +1,1046 @@
+2025-10-26 00:45:10 - __main__ - INFO - [TOSHIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:10 - __main__ - INFO - [TOSHIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:10 - __main__ - INFO - [TOSHIUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:10 - __main__ - INFO - [TOSHIUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:10 - src.strategy.lsfp_detector - INFO - [TOSHIUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:10 - src.strategy.lsfp_detector - INFO - [TOSHIUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:10 - src.strategy.lsfp_detector - INFO - [TOSHIUSDT] No sweep detected
+2025-10-26 00:45:10 - src.strategy.lsfp_detector - INFO - [TOSHIUSDT] No sweep detected
+2025-10-26 00:45:10 - __main__ - INFO - [BTCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:10 - __main__ - INFO - [BTCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:10 - __main__ - INFO - [JELLYJELLYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:10 - __main__ - INFO - [JELLYJELLYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:10 - __main__ - INFO - [CARVUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:10 - __main__ - INFO - [CARVUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:10 - __main__ - INFO - [WIFUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:10 - __main__ - INFO - [WIFUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:10 - __main__ - INFO - [WIFUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:10 - __main__ - INFO - [WIFUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:10 - src.strategy.lsfp_detector - INFO - [WIFUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:10 - src.strategy.lsfp_detector - INFO - [WIFUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:10 - src.strategy.lsfp_detector - INFO - [WIFUSDT] No sweep detected
+2025-10-26 00:45:10 - src.strategy.lsfp_detector - INFO - [WIFUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [TRBUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [TRBUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [TRBUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [TRBUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [TRBUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [TRBUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [TRBUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [TRBUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [LABUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [LABUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [LABUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [LABUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [LABUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [LABUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [LABUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [LABUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [TURTLEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [TURTLEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [TURTLEUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [TURTLEUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [TURTLEUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [KASUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [KASUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [POLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [POLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [XMRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [XMRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [XMRUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [XMRUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [XMRUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [XMRUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [XMRUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [XMRUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [CELRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [CELRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [USDCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [USDCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [COOKIEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [COOKIEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [COOKIEUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [COOKIEUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [COOKIEUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [COOKIEUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [COOKIEUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [COOKIEUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [NMRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [NMRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [AVAXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [AVAXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [AVAXUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [AVAXUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [AVAXUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [AVAXUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [AVAXUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [AVAXUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [DASHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [DASHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [DASHUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [DASHUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [DASHUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [DASHUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [DASHUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [DASHUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [SAFEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SAFEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [PUMPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [PUMPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [PYTHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [PYTHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [TREEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [TREEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [TREEUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [TREEUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [TREEUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [TREEUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [TREEUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [TREEUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [DOODUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [DOODUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SPELLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SPELLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [XPLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [XPLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [XPLUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [XPLUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [XPLUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [XPLUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [XPLUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [XPLUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [TRXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [TRXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [CELOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [CELOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [CELOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [CELOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [CELOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [CELOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [CELOUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [CELOUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [FHEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [FHEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SOONUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SOONUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SOONUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [SOONUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [SOONUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [SOONUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [SOONUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [SOONUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [DUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [DUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [MOVEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [MOVEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [XLMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [XLMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [XLMUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [XLMUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [XLMUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [XLMUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [XLMUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [XLMUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [B2USDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [B2USDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [B2USDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [B2USDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [B2USDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [B2USDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [B2USDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [B2USDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [SKATEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SKATEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SPKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SPKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SPKUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [SPKUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [SPKUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [SPKUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [SPKUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [SPKUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [MYXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [MYXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [MYXUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [MYXUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [MYXUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [MYXUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [MYXUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [MYXUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [APTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [APTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [APTUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [APTUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [APTUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [APTUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [APTUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [APTUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [PARTIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [PARTIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SUNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SUNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [ERAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [ERAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [NEARUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [NEARUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [OMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [OMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [OMUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [OMUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [OMUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [OMUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [OMUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [OMUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [1000WHYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [1000WHYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [MELANIAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [MELANIAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [BERAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [BERAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [BERAUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [BERAUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [BERAUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [BERAUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [BERAUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [BERAUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [AAVEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [AAVEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [AAVEUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [AAVEUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [AAVEUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [AAVEUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [AAVEUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [AAVEUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [FLUXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [FLUXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [KAVAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [KAVAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [HANAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [HANAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [HANAUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [HANAUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [HANAUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [HANAUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [HANAUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [HANAUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [RAREUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [RAREUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SKYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SKYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [CUDISUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [CUDISUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [IOTXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [IOTXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [WALUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [WALUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [WALUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [WALUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [WALUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [WALUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [WALUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [WALUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [BDXNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [BDXNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [NXPCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [NXPCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [BIOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [BIOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [BIOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [BIOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [BIOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [BIOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [BIOUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [BIOUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [CLOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [CLOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [CLOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [CLOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [CLOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [CLOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [CLOUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [CLOUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [HOOKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [HOOKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [API3USDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [API3USDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [API3USDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [API3USDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [API3USDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [API3USDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [API3USDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [API3USDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [CROSSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [CROSSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [MEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [MEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [MANTAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [MANTAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [LIGHTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [LIGHTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [LIGHTUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [LIGHTUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [LIGHTUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [LIGHTUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [LIGHTUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [LIGHTUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [VANRYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [VANRYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [ZKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [ZKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SOPHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SOPHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SOPHUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [SOPHUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [SOPHUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [SOPHUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [SOPHUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [SOPHUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [XAIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [XAIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [REDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [REDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [PROVEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [PROVEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [POWRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [POWRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [AEVOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [AEVOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [TAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [TAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [CHRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [CHRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [PIXELUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [PIXELUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [KMNOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [KMNOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SAGAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [SAGAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [XVGUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [XVGUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [MOVRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [MOVRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [IDOLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [IDOLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [WCTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [WCTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [VELODROMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [VELODROMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [PROMPTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [PROMPTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [NEWTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [NEWTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [PROMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [PROMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [GHSTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [GHSTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [ICPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [ICPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [ICPUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [ICPUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [ICPUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [ICPUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [ICPUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [ICPUSDT] No sweep detected
+2025-10-26 00:45:11 - __main__ - INFO - [LRCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [LRCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [RESOLVUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [RESOLVUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [AI16ZUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [AI16ZUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:11 - __main__ - INFO - [AI16ZUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - __main__ - INFO - [AI16ZUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [AI16ZUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [AI16ZUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [AI16ZUSDT] No sweep detected
+2025-10-26 00:45:11 - src.strategy.lsfp_detector - INFO - [AI16ZUSDT] No sweep detected
+2025-10-26 00:45:12 - __main__ - INFO - [CKBUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [CKBUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [ENAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [ENAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [ENAUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - __main__ - INFO - [ENAUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [ENAUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [ENAUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [ENAUSDT] No sweep detected
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [ENAUSDT] No sweep detected
+2025-10-26 00:45:12 - __main__ - INFO - [RENDERUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [RENDERUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [RENDERUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - __main__ - INFO - [RENDERUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [RENDERUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [RENDERUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [RENDERUSDT] No sweep detected
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [RENDERUSDT] No sweep detected
+2025-10-26 00:45:12 - __main__ - INFO - [CRVUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [CRVUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [CRVUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - __main__ - INFO - [CRVUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [CRVUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [CRVUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [CRVUSDT] No sweep detected
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [CRVUSDT] No sweep detected
+2025-10-26 00:45:12 - __main__ - INFO - [FUNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [FUNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [TANSSIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [TANSSIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [WAXPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [WAXPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [ZILUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [ZILUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [TAOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [TAOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [WLFIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [WLFIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [WLFIUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - __main__ - INFO - [WLFIUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [WLFIUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [WLFIUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [WLFIUSDT] No sweep detected
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [WLFIUSDT] No sweep detected
+2025-10-26 00:45:12 - __main__ - INFO - [VOXELUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [VOXELUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [RPLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [RPLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [USUALUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [USUALUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [AXSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [AXSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [ZETAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [ZETAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [OPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [OPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [OPUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - __main__ - INFO - [OPUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [OPUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [OPUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [OPUSDT] No sweep detected
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [OPUSDT] No sweep detected
+2025-10-26 00:45:12 - __main__ - INFO - [INITUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [INITUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [MUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [MUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [GOATUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [GOATUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [BARDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [BARDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [ZROUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [ZROUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [HEMIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [HEMIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [DUSKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [DUSKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [BANDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [BANDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [FETUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [FETUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [FETUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - __main__ - INFO - [FETUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [FETUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [FETUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [FETUSDT] No sweep detected
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [FETUSDT] No sweep detected
+2025-10-26 00:45:12 - __main__ - INFO - [ADAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [ADAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [ADAUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - __main__ - INFO - [ADAUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [ADAUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [ADAUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [ADAUSDT] No sweep detected
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [ADAUSDT] No sweep detected
+2025-10-26 00:45:12 - __main__ - INFO - [LPTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [LPTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [ETHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [ETHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [LTCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [LTCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:12 - __main__ - INFO - [LTCUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - __main__ - INFO - [LTCUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [LTCUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [LTCUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [LTCUSDT] No sweep detected
+2025-10-26 00:45:12 - src.strategy.lsfp_detector - INFO - [LTCUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [ATOMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ATOMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ATOMUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [ATOMUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ATOMUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ATOMUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ATOMUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ATOMUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [ONTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BNBUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BNBUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BNBUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [BNBUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [BNBUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [BNBUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [BNBUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [BNBUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [AWEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [AWEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SIRENUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SIRENUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [RAYSOLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [RAYSOLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [COMPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [COMPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [VELVETUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [VELVETUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MEMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MEMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DFUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DFUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BULLAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BULLAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [COTIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [COTIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NILUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NILUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [STXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [STXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HAEDALUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HAEDALUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IOTAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IOTAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LQTYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LQTYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [METISUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [METISUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LAYERUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LAYERUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MLNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MLNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [POLYXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [POLYXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CTKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CTKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [STEEMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [STEEMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [RIFUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [RIFUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SONICUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SONICUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ZKJUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ZKJUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BBUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BBUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HYPERUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HYPERUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CVCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CVCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BTCDOMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BTCDOMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [GASUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [GASUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [EGLDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [EGLDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [EULUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [EULUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [EULUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [EULUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [EULUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [EULUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [EULUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [EULUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [BATUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BATUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [GLMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [GLMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NEOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NEOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [RSRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [RSRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [COSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [COSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000XECUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000XECUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000SATSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000SATSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MANAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MANAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SCRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SCRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BNTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BNTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [TWTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [TWTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [JTOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [JTOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HOMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HOMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ZENUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ZENUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ZENUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [ZENUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ZENUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ZENUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ZENUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ZENUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [RDNTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [RDNTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ARKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ARKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DEGENUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DEGENUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SAPIENUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SAPIENUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [RUNEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [RUNEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CATIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CATIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ARIAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ARIAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [TUTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [TUTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CHESSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CHESSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [TURBOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [TURBOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [JOEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [JOEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [STGUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [STGUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [B3USDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [B3USDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MOCAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MOCAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IOSTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IOSTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PEOPLEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PEOPLEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [AUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [AUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DIAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DIAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PLUMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PLUMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [THETAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [THETAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SKLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SKLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [QNTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [QNTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NTRNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NTRNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SEIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SEIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SEIUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [SEIUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [SEIUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [SEIUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [SEIUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [SEIUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [MONUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MONUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LISTAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LISTAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1INCHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1INCHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ENSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ENSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [AERGOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [AERGOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FXSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FXSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ETCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ETCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ETCUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [ETCUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ETCUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ETCUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ETCUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ETCUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [TRUMPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [TRUMPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [TRUMPUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [TRUMPUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [TRUMPUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [TRUMPUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [TRUMPUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [TRUMPUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [FIOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FIOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BEAMXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BEAMXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ARPAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ARPAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [JASMYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [JASMYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FFUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FFUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [USTCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [USTCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000000BOBUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000000BOBUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MITOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MITOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MUBARAKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MUBARAKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BICOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BICOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BOMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BOMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [OPENUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [OPENUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [OPENUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [OPENUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [OPENUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [OPENUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [OPENUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [OPENUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [PENDLEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PENDLEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PENDLEUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [PENDLEUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PENDLEUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PENDLEUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PENDLEUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PENDLEUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [MAVUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MAVUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SUPERUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SUPERUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DYDXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DYDXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DYDXUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [DYDXUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [DYDXUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [DYDXUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [DYDXUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [DYDXUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [ALLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ALLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SCRTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SCRTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [RLCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [RLCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MOODENGUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MOODENGUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MOODENGUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [MOODENGUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [MOODENGUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [MOODENGUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [MOODENGUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [MOODENGUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [ENJUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ENJUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PUNDIXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PUNDIXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [2ZUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [2ZUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [2ZUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [2ZUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [2ZUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [2ZUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [2ZUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [2ZUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [XVSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [XVSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ALGOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ALGOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ALGOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [ALGOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ALGOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ALGOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ALGOUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ALGOUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [C98USDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [C98USDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ETHWUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ETHWUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BANANAS31USDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BANANAS31USDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SXTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SXTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [TAKEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [TAKEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ILVUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ILVUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ACHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ACHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DOGSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DOGSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DEEPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DEEPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HIVEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HIVEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [STORJUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [STORJUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DODOXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DODOXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [STOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [STOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MASKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MASKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CVXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CVXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MORPHOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MORPHOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MORPHOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [MORPHOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [MORPHOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [MORPHOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [MORPHOUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [MORPHOUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [MILKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MILKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FLUIDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FLUIDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [POPCATUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [POPCATUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [POPCATUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [POPCATUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [POPCATUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [POPCATUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [POPCATUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [POPCATUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [BANANAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BANANAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ORDIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ORDIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ORDIUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [ORDIUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ORDIUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ORDIUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ORDIUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ORDIUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [BIGTIMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BIGTIMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [VICUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [VICUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CFXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CFXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PNUTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PNUTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PNUTUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [PNUTUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PNUTUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PNUTUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PNUTUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PNUTUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [CTSIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CTSIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000BONKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000BONKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000BONKUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [1000BONKUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [ARKMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ARKMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [OXTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [OXTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BSVUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BSVUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000CHEEMSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000CHEEMSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [UNIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [UNIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [UNIUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [UNIUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [UNIUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [UNIUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [UNIUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [UNIUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [GMXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [GMXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DEXEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DEXEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ALCHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ALCHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SYRUPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SYRUPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [GPSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [GPSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FLMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FLMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NEIROUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NEIROUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NEIROUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [NEIROUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [NEIROUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [NEIROUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [NEIROUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [NEIROUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [CETUSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CETUSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONDOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONDOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONDOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [ONDOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ONDOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ONDOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ONDOUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [ONDOUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [1000RATSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000RATSUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LSKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LSKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [TSTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [TSTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BMTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BMTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PENGUUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PENGUUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PENGUUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [PENGUUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PENGUUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PENGUUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PENGUUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [PENGUUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [XTZUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [XTZUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SUSHIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SUSHIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [KNCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [KNCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DOTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DOTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DOTUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [DOTUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [DOTUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [DOTUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [DOTUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [DOTUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [KAIAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [KAIAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LDOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LDOUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LDOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [LDOUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LDOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LDOUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LDOUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LDOUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [MAVIAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [MAVIAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FISUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [FISUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NOMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NOMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [INUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [INUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [INUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [INUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [INUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [INUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [INUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [INUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [ARBUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ARBUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [AGLDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [AGLDUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PLAYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [PLAYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CHZUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [CHZUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [GMTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [GMTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000LUNCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1000LUNCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HFTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HFTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [KOMAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [KOMAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ANIMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ANIMEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SWELLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SWELLUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BABYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BABYUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ASTRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ASTRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [THEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [THEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [KSMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [KSMUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DMCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [DMCUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [YFIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [YFIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SNXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SNXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SNXUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [SNXUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [SNXUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [SNXUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [SNXUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [SNXUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [HEIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HEIUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONGUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ONGUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1MBABYDOGEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [1MBABYDOGEUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ASRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ASRUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [WUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [WUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [WUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [WUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [WUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [WUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [WUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [WUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [QUICKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [QUICKUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [VANAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [VANAUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [EIGENUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [EIGENUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BCHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BCHUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BCHUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [BCHUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [BCHUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [BCHUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [BCHUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [BCHUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [AGTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [AGTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HBARUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HBARUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [HBARUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [HBARUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [HBARUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [HBARUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [HBARUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [HBARUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [BRETTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [BRETTUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NKNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [NKNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IMXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IMXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ACXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [ACXUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [IPUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [IPUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [IPUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [IPUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [IPUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [IPUSDT] No sweep detected
+2025-10-26 00:45:13 - __main__ - INFO - [SFPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [SFPUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LYNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LYNUSDT] Step 2: Checking liquidity filter
+2025-10-26 00:45:13 - __main__ - INFO - [LYNUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - __main__ - INFO - [LYNUSDT] Step 3: Analyzing LSFP pattern...
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LYNUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LYNUSDT] Retrieved 25 candles from cache
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LYNUSDT] No sweep detected
+2025-10-26 00:45:13 - src.strategy.lsfp_detector - INFO - [LYNUSDT] No sweep detected
