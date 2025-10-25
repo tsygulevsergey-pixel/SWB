@@ -26,6 +26,11 @@ def setup_logging(log_level: str = "INFO"):
     
     formatter = KievFormatter(log_format, date_format)
     
+    root_logger = logging.getLogger()
+    
+    if root_logger.hasHandlers():
+        root_logger.handlers.clear()
+    
     console_handler = logging.StreamHandler(sys.stdout)
     console_handler.setFormatter(formatter)
     console_handler.setLevel(log_level)
@@ -38,7 +43,6 @@ def setup_logging(log_level: str = "INFO"):
     file_handler.setFormatter(formatter)
     file_handler.setLevel(log_level)
     
-    root_logger = logging.getLogger()
     root_logger.setLevel(log_level)
     root_logger.addHandler(console_handler)
     root_logger.addHandler(file_handler)

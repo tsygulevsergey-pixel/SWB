@@ -25,6 +25,9 @@ High-speed Telegram bot monitoring all USDT-perpetual pairs on Binance Futures, 
   - Показывает условия: объем 24ч, открытый интерес, ATR%
   - Автоматическое форматирование больших чисел ($XM, $XB)
 
+**Logging Fix:**
+- ✅ Fixed duplicate log messages by clearing existing handlers before adding new ones in `setup_logging()`
+
 ## Recent Changes (2025-10-25 Earlier)
 
 ### ✅ Completed Implementation
