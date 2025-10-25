@@ -1,0 +1,25 @@
+(venv) root@ubuntu-s-1vcpu-2gb-fra1-01:~/SWB# tail -f /root/SWB/bot.log | grep -E "(Sweep detected|wick check|ratio=|Wick/body ratio)"
+2025-10-26 01:45:10 - src.strategy.lsfp_detector - INFO - [ARUSDT] Sweep detected: LONG
+2025-10-26 01:45:10 - src.strategy.lsfp_detector - INFO - [ARUSDT] Sweep detected: LONG
+2025-10-26 01:45:10 - src.strategy.lsfp_detector - INFO - [ARUSDT] LONG wick check: lower_wick=0.001000, body=0.002000, ratio=0.50, required>=0.5
+2025-10-26 01:45:10 - src.strategy.lsfp_detector - INFO - [ARUSDT] LONG wick check: lower_wick=0.001000, body=0.002000, ratio=0.50, required>=0.5
+2025-10-26 01:45:10 - src.strategy.lsfp_detector - INFO - [ARUSDT] Wick/body ratio check failed
+2025-10-26 01:45:10 - src.strategy.lsfp_detector - INFO - [ARUSDT] Wick/body ratio check failed
+2025-10-26 01:45:10 - src.strategy.lsfp_detector - INFO - [COOKIEUSDT] Sweep detected: SHORT
+2025-10-26 01:45:10 - src.strategy.lsfp_detector - INFO - [COOKIEUSDT] Sweep detected: SHORT
+2025-10-26 01:45:10 - src.strategy.lsfp_detector - INFO - [COOKIEUSDT] SHORT wick check: upper_wick=0.000000, body=0.000300, ratio=0.00, required>=0.5
+2025-10-26 01:45:10 - src.strategy.lsfp_detector - INFO - [COOKIEUSDT] SHORT wick check: upper_wick=0.000000, body=0.000300, ratio=0.00, required>=0.5
+2025-10-26 01:45:10 - src.strategy.lsfp_detector - INFO - [COOKIEUSDT] Wick/body ratio check failed
+2025-10-26 01:45:10 - src.strategy.lsfp_detector - INFO - [COOKIEUSDT] Wick/body ratio check failed
+2025-10-26 01:45:12 - src.strategy.lsfp_detector - INFO - [INJUSDT] Sweep detected: SHORT
+2025-10-26 01:45:12 - src.strategy.lsfp_detector - INFO - [INJUSDT] Sweep detected: SHORT
+2025-10-26 01:45:12 - src.strategy.lsfp_detector - INFO - [INJUSDT] SHORT wick check: upper_wick=0.000000, body=0.002000, ratio=0.00, required>=0.5
+2025-10-26 01:45:12 - src.strategy.lsfp_detector - INFO - [INJUSDT] SHORT wick check: upper_wick=0.000000, body=0.002000, ratio=0.00, required>=0.5
+2025-10-26 01:45:12 - src.strategy.lsfp_detector - INFO - [INJUSDT] Wick/body ratio check failed
+2025-10-26 01:45:12 - src.strategy.lsfp_detector - INFO - [INJUSDT] Wick/body ratio check failed
+2025-10-26 01:45:13 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] Sweep detected: SHORT
+2025-10-26 01:45:13 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] Sweep detected: SHORT
+2025-10-26 01:45:13 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] SHORT wick check: upper_wick=0.000001, body=0.000006, ratio=0.17, required>=0.5
+2025-10-26 01:45:13 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] SHORT wick check: upper_wick=0.000001, body=0.000006, ratio=0.17, required>=0.5
+2025-10-26 01:45:13 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] Wick/body ratio check failed
+2025-10-26 01:45:13 - src.strategy.lsfp_detector - INFO - [1000BONKUSDT] Wick/body ratio check failed

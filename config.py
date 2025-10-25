@@ -17,7 +17,7 @@ class StrategyConfig:
     sweep_min_atr: float = 0.05
     sweep_min_atr_strict: float = 0.30
     
-    wick_body_ratio: float = 0.5
+    wick_body_ratio: float = 0.0
     
     liq_percentile_base: int = 80
     liq_percentile_strict: int = 97
